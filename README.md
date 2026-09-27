@@ -255,8 +255,6 @@ A Gradio interface accepts a **raw** fundus photograph, applies the identical fo
 │   └── final_summary.json
 ├── report/
 │   └── DR_Stage_Detection_Report.pdf
-├── requirements.txt
-├── .gitignore
 └── README.md
 ```
 
