@@ -7,7 +7,7 @@ Five-class diabetic retinopathy (DR) grading from retinal fundus photographs, us
 **Author:** S.M.A.D.V.D. Sammandapperuma
 **NIBM Index:** COBSCCOMP242P-008 · **Coventry Index:** 16114173
 
-📺 **Video demonstration:** [ADD YOUR YOUTUBE LINK HERE]
+📺 **Video demonstration:** https://youtu.be/euQRnsHms98
 
 
 > ⚠️ **Disclaimer:** This is a research prototype built for academic coursework. It is **not a medical device**, has no regulatory validation, and must not be used for clinical decisions.
