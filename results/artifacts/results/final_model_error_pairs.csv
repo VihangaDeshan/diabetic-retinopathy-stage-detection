@@ -1,0 +1,15 @@
+True,Predicted,Count,Grade distance,Direction
+Moderate,Mild,26,1,under-graded
+Moderate,Severe,23,1,over-graded
+Moderate,Proliferative DR,14,2,over-graded
+Mild,Moderate,12,1,over-graded
+Severe,Proliferative DR,7,1,over-graded
+Proliferative DR,Severe,7,1,under-graded
+Proliferative DR,Moderate,7,2,under-graded
+No DR,Mild,5,1,over-graded
+Severe,Moderate,5,1,under-graded
+Mild,No DR,5,1,under-graded
+Proliferative DR,Mild,5,3,under-graded
+No DR,Moderate,2,2,over-graded
+Mild,Proliferative DR,2,3,over-graded
+Moderate,No DR,1,2,under-graded

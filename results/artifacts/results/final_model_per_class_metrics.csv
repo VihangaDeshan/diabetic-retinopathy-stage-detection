@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support
+No DR,0.978,0.974,0.976,271.0
+Mild,0.507,0.661,0.574,56.0
+Moderate,0.768,0.573,0.656,150.0
+Severe,0.362,0.586,0.447,29.0
+Proliferative DR,0.521,0.568,0.543,44.0

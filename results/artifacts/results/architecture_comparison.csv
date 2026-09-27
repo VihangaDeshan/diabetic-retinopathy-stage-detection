@@ -1,0 +1,4 @@
+,Val QWK,Test Accuracy,Test Macro F1,Test Weighted F1,Test QWK,Test Macro AUC,Parameters,Train (min)
+EfficientNetB0,0.8034,0.7618,0.5964,0.7653,0.8313,0.9121,4055976.0,28.4
+ResNet50,0.8393,0.7418,0.5681,0.739,0.8411,0.9098,23597957.0,25.5
+MobileNetV2,0.7914,0.7018,0.5292,0.7001,0.8074,0.9098,2264389.0,35.3

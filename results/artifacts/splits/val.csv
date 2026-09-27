@@ -1,0 +1,551 @@
+id_code,diagnosis,split_folder,path,label,cached_path
+10f36b0239fb,1,val_images/val_images,/content/raw/val_images/val_images/10f36b0239fb.png,Mild,/content/processed/images_320/10f36b0239fb.jpg
+510aa0a898fa,2,train_images/train_images,/content/raw/train_images/train_images/510aa0a898fa.png,Moderate,/content/processed/images_320/510aa0a898fa.jpg
+050bb1eafa76,0,val_images/val_images,/content/raw/val_images/val_images/050bb1eafa76.png,No DR,/content/processed/images_320/050bb1eafa76.jpg
+c613db1cab27,2,train_images/train_images,/content/raw/train_images/train_images/c613db1cab27.png,Moderate,/content/processed/images_320/c613db1cab27.jpg
+4dbce359d0e1,2,train_images/train_images,/content/raw/train_images/train_images/4dbce359d0e1.png,Moderate,/content/processed/images_320/4dbce359d0e1.jpg
+52edbe29d655,0,train_images/train_images,/content/raw/train_images/train_images/52edbe29d655.png,No DR,/content/processed/images_320/52edbe29d655.jpg
+8010c931321f,0,train_images/train_images,/content/raw/train_images/train_images/8010c931321f.png,No DR,/content/processed/images_320/8010c931321f.jpg
+237c078d00fc,3,train_images/train_images,/content/raw/train_images/train_images/237c078d00fc.png,Severe,/content/processed/images_320/237c078d00fc.jpg
+4ad6109706e8,2,train_images/train_images,/content/raw/train_images/train_images/4ad6109706e8.png,Moderate,/content/processed/images_320/4ad6109706e8.jpg
+720b5f62ce80,0,train_images/train_images,/content/raw/train_images/train_images/720b5f62ce80.png,No DR,/content/processed/images_320/720b5f62ce80.jpg
+0d0a21fd354f,2,val_images/val_images,/content/raw/val_images/val_images/0d0a21fd354f.png,Moderate,/content/processed/images_320/0d0a21fd354f.jpg
+4dc2211a1c31,4,train_images/train_images,/content/raw/train_images/train_images/4dc2211a1c31.png,Proliferative DR,/content/processed/images_320/4dc2211a1c31.jpg
+65e6f1bd9875,0,train_images/train_images,/content/raw/train_images/train_images/65e6f1bd9875.png,No DR,/content/processed/images_320/65e6f1bd9875.jpg
+46c1548d730e,2,train_images/train_images,/content/raw/train_images/train_images/46c1548d730e.png,Moderate,/content/processed/images_320/46c1548d730e.jpg
+5db895d3f1fc,0,train_images/train_images,/content/raw/train_images/train_images/5db895d3f1fc.png,No DR,/content/processed/images_320/5db895d3f1fc.jpg
+4d7d6928534a,1,train_images/train_images,/content/raw/train_images/train_images/4d7d6928534a.png,Mild,/content/processed/images_320/4d7d6928534a.jpg
+f18abfa690ab,2,test_images/test_images,/content/raw/test_images/test_images/f18abfa690ab.png,Moderate,/content/processed/images_320/f18abfa690ab.jpg
+5f51192841f7,0,train_images/train_images,/content/raw/train_images/train_images/5f51192841f7.png,No DR,/content/processed/images_320/5f51192841f7.jpg
+4aa07d720638,1,train_images/train_images,/content/raw/train_images/train_images/4aa07d720638.png,Mild,/content/processed/images_320/4aa07d720638.jpg
+fa748b57262b,2,test_images/test_images,/content/raw/test_images/test_images/fa748b57262b.png,Moderate,/content/processed/images_320/fa748b57262b.jpg
+763ad1236efe,0,train_images/train_images,/content/raw/train_images/train_images/763ad1236efe.png,No DR,/content/processed/images_320/763ad1236efe.jpg
+cbf0394039f8,2,train_images/train_images,/content/raw/train_images/train_images/cbf0394039f8.png,Moderate,/content/processed/images_320/cbf0394039f8.jpg
+08f8838d69bb,0,val_images/val_images,/content/raw/val_images/val_images/08f8838d69bb.png,No DR,/content/processed/images_320/08f8838d69bb.jpg
+abdb365cacbc,1,train_images/train_images,/content/raw/train_images/train_images/abdb365cacbc.png,Mild,/content/processed/images_320/abdb365cacbc.jpg
+4f46d7ee61ed,2,train_images/train_images,/content/raw/train_images/train_images/4f46d7ee61ed.png,Moderate,/content/processed/images_320/4f46d7ee61ed.jpg
+76b950c6ed5e,0,train_images/train_images,/content/raw/train_images/train_images/76b950c6ed5e.png,No DR,/content/processed/images_320/76b950c6ed5e.jpg
+dde43aa22ae6,2,train_images/train_images,/content/raw/train_images/train_images/dde43aa22ae6.png,Moderate,/content/processed/images_320/dde43aa22ae6.jpg
+12a82fc7d73e,2,val_images/val_images,/content/raw/val_images/val_images/12a82fc7d73e.png,Moderate,/content/processed/images_320/12a82fc7d73e.jpg
+7af4d8704032,0,train_images/train_images,/content/raw/train_images/train_images/7af4d8704032.png,No DR,/content/processed/images_320/7af4d8704032.jpg
+005b95c28852,0,val_images/val_images,/content/raw/val_images/val_images/005b95c28852.png,No DR,/content/processed/images_320/005b95c28852.jpg
+ee059945b08a,2,test_images/test_images,/content/raw/test_images/test_images/ee059945b08a.png,Moderate,/content/processed/images_320/ee059945b08a.jpg
+d2c5fb82fe5f,0,train_images/train_images,/content/raw/train_images/train_images/d2c5fb82fe5f.png,No DR,/content/processed/images_320/d2c5fb82fe5f.jpg
+72a867980067,0,train_images/train_images,/content/raw/train_images/train_images/72a867980067.png,No DR,/content/processed/images_320/72a867980067.jpg
+668e853258cd,2,train_images/train_images,/content/raw/train_images/train_images/668e853258cd.png,Moderate,/content/processed/images_320/668e853258cd.jpg
+96c3e3db68bc,2,train_images/train_images,/content/raw/train_images/train_images/96c3e3db68bc.png,Moderate,/content/processed/images_320/96c3e3db68bc.jpg
+3232b34cbe99,0,train_images/train_images,/content/raw/train_images/train_images/3232b34cbe99.png,No DR,/content/processed/images_320/3232b34cbe99.jpg
+e9ff9352ccb3,1,test_images/test_images,/content/raw/test_images/test_images/e9ff9352ccb3.png,Mild,/content/processed/images_320/e9ff9352ccb3.jpg
+ac0a48ccbf70,0,train_images/train_images,/content/raw/train_images/train_images/ac0a48ccbf70.png,No DR,/content/processed/images_320/ac0a48ccbf70.jpg
+0b64a0a06f9a,0,val_images/val_images,/content/raw/val_images/val_images/0b64a0a06f9a.png,No DR,/content/processed/images_320/0b64a0a06f9a.jpg
+a26f50218b84,0,train_images/train_images,/content/raw/train_images/train_images/a26f50218b84.png,No DR,/content/processed/images_320/a26f50218b84.jpg
+d2dc86021c67,0,train_images/train_images,/content/raw/train_images/train_images/d2dc86021c67.png,No DR,/content/processed/images_320/d2dc86021c67.jpg
+8aab201c0691,2,train_images/train_images,/content/raw/train_images/train_images/8aab201c0691.png,Moderate,/content/processed/images_320/8aab201c0691.jpg
+318eb706a134,0,train_images/train_images,/content/raw/train_images/train_images/318eb706a134.png,No DR,/content/processed/images_320/318eb706a134.jpg
+ef247f28004f,0,test_images/test_images,/content/raw/test_images/test_images/ef247f28004f.png,No DR,/content/processed/images_320/ef247f28004f.jpg
+2b2f5a0f880d,0,train_images/train_images,/content/raw/train_images/train_images/2b2f5a0f880d.png,No DR,/content/processed/images_320/2b2f5a0f880d.jpg
+0ef4c61dc056,0,val_images/val_images,/content/raw/val_images/val_images/0ef4c61dc056.png,No DR,/content/processed/images_320/0ef4c61dc056.jpg
+bcd503c726ba,4,train_images/train_images,/content/raw/train_images/train_images/bcd503c726ba.png,Proliferative DR,/content/processed/images_320/bcd503c726ba.jpg
+7cc4b7aabe04,4,train_images/train_images,/content/raw/train_images/train_images/7cc4b7aabe04.png,Proliferative DR,/content/processed/images_320/7cc4b7aabe04.jpg
+0231642cf1c2,0,val_images/val_images,/content/raw/val_images/val_images/0231642cf1c2.png,No DR,/content/processed/images_320/0231642cf1c2.jpg
+0d744aed4d64,0,val_images/val_images,/content/raw/val_images/val_images/0d744aed4d64.png,No DR,/content/processed/images_320/0d744aed4d64.jpg
+1968183f0e61,2,val_images/val_images,/content/raw/val_images/val_images/1968183f0e61.png,Moderate,/content/processed/images_320/1968183f0e61.jpg
+fecf4c5ae84b,1,test_images/test_images,/content/raw/test_images/test_images/fecf4c5ae84b.png,Mild,/content/processed/images_320/fecf4c5ae84b.jpg
+fb88d23fc5fe,0,test_images/test_images,/content/raw/test_images/test_images/fb88d23fc5fe.png,No DR,/content/processed/images_320/fb88d23fc5fe.jpg
+8dfa629ca74e,2,train_images/train_images,/content/raw/train_images/train_images/8dfa629ca74e.png,Moderate,/content/processed/images_320/8dfa629ca74e.jpg
+f3a268d2726d,2,test_images/test_images,/content/raw/test_images/test_images/f3a268d2726d.png,Moderate,/content/processed/images_320/f3a268d2726d.jpg
+e96bd80a8a53,1,test_images/test_images,/content/raw/test_images/test_images/e96bd80a8a53.png,Mild,/content/processed/images_320/e96bd80a8a53.jpg
+8ac0c44bbf24,4,train_images/train_images,/content/raw/train_images/train_images/8ac0c44bbf24.png,Proliferative DR,/content/processed/images_320/8ac0c44bbf24.jpg
+60edda7b4871,0,train_images/train_images,/content/raw/train_images/train_images/60edda7b4871.png,No DR,/content/processed/images_320/60edda7b4871.jpg
+e3cd96cb094c,0,train_images/train_images,/content/raw/train_images/train_images/e3cd96cb094c.png,No DR,/content/processed/images_320/e3cd96cb094c.jpg
+1f4fb37e0854,0,train_images/train_images,/content/raw/train_images/train_images/1f4fb37e0854.png,No DR,/content/processed/images_320/1f4fb37e0854.jpg
+f58d37d48e42,4,test_images/test_images,/content/raw/test_images/test_images/f58d37d48e42.png,Proliferative DR,/content/processed/images_320/f58d37d48e42.jpg
+4b618537d52f,3,train_images/train_images,/content/raw/train_images/train_images/4b618537d52f.png,Severe,/content/processed/images_320/4b618537d52f.jpg
+0e82bcacc475,4,val_images/val_images,/content/raw/val_images/val_images/0e82bcacc475.png,Proliferative DR,/content/processed/images_320/0e82bcacc475.jpg
+aa841de1ee82,2,train_images/train_images,/content/raw/train_images/train_images/aa841de1ee82.png,Moderate,/content/processed/images_320/aa841de1ee82.jpg
+493d99f030e2,0,train_images/train_images,/content/raw/train_images/train_images/493d99f030e2.png,No DR,/content/processed/images_320/493d99f030e2.jpg
+fb88783de055,0,test_images/test_images,/content/raw/test_images/test_images/fb88783de055.png,No DR,/content/processed/images_320/fb88783de055.jpg
+1da25637859b,2,train_images/train_images,/content/raw/train_images/train_images/1da25637859b.png,Moderate,/content/processed/images_320/1da25637859b.jpg
+b9c7c5182075,0,train_images/train_images,/content/raw/train_images/train_images/b9c7c5182075.png,No DR,/content/processed/images_320/b9c7c5182075.jpg
+eabc7c716255,0,test_images/test_images,/content/raw/test_images/test_images/eabc7c716255.png,No DR,/content/processed/images_320/eabc7c716255.jpg
+77baa08a1345,2,train_images/train_images,/content/raw/train_images/train_images/77baa08a1345.png,Moderate,/content/processed/images_320/77baa08a1345.jpg
+01b3aed3ed4c,1,val_images/val_images,/content/raw/val_images/val_images/01b3aed3ed4c.png,Mild,/content/processed/images_320/01b3aed3ed4c.jpg
+6df8b7b6e837,0,train_images/train_images,/content/raw/train_images/train_images/6df8b7b6e837.png,No DR,/content/processed/images_320/6df8b7b6e837.jpg
+fe674c2f73f5,1,test_images/test_images,/content/raw/test_images/test_images/fe674c2f73f5.png,Mild,/content/processed/images_320/fe674c2f73f5.jpg
+f9156aeffc5e,3,test_images/test_images,/content/raw/test_images/test_images/f9156aeffc5e.png,Severe,/content/processed/images_320/f9156aeffc5e.jpg
+bac1744955c2,0,train_images/train_images,/content/raw/train_images/train_images/bac1744955c2.png,No DR,/content/processed/images_320/bac1744955c2.jpg
+adb56cecafaf,3,train_images/train_images,/content/raw/train_images/train_images/adb56cecafaf.png,Severe,/content/processed/images_320/adb56cecafaf.jpg
+67f5d89da548,1,train_images/train_images,/content/raw/train_images/train_images/67f5d89da548.png,Mild,/content/processed/images_320/67f5d89da548.jpg
+436fa3fd145a,0,train_images/train_images,/content/raw/train_images/train_images/436fa3fd145a.png,No DR,/content/processed/images_320/436fa3fd145a.jpg
+e9ab8413e771,4,test_images/test_images,/content/raw/test_images/test_images/e9ab8413e771.png,Proliferative DR,/content/processed/images_320/e9ab8413e771.jpg
+4134b290f5f3,0,train_images/train_images,/content/raw/train_images/train_images/4134b290f5f3.png,No DR,/content/processed/images_320/4134b290f5f3.jpg
+0dbaa09a458c,2,val_images/val_images,/content/raw/val_images/val_images/0dbaa09a458c.png,Moderate,/content/processed/images_320/0dbaa09a458c.jpg
+0cb14014117d,3,val_images/val_images,/content/raw/val_images/val_images/0cb14014117d.png,Severe,/content/processed/images_320/0cb14014117d.jpg
+3dec415b188a,0,train_images/train_images,/content/raw/train_images/train_images/3dec415b188a.png,No DR,/content/processed/images_320/3dec415b188a.jpg
+c26f98f58350,0,train_images/train_images,/content/raw/train_images/train_images/c26f98f58350.png,No DR,/content/processed/images_320/c26f98f58350.jpg
+3a643599f852,0,train_images/train_images,/content/raw/train_images/train_images/3a643599f852.png,No DR,/content/processed/images_320/3a643599f852.jpg
+a7b0d0c51731,2,train_images/train_images,/content/raw/train_images/train_images/a7b0d0c51731.png,Moderate,/content/processed/images_320/a7b0d0c51731.jpg
+eadc57064154,4,test_images/test_images,/content/raw/test_images/test_images/eadc57064154.png,Proliferative DR,/content/processed/images_320/eadc57064154.jpg
+cf8ae5501bd6,0,train_images/train_images,/content/raw/train_images/train_images/cf8ae5501bd6.png,No DR,/content/processed/images_320/cf8ae5501bd6.jpg
+91cf56d3d1af,3,train_images/train_images,/content/raw/train_images/train_images/91cf56d3d1af.png,Severe,/content/processed/images_320/91cf56d3d1af.jpg
+d0079cc188e9,3,train_images/train_images,/content/raw/train_images/train_images/d0079cc188e9.png,Severe,/content/processed/images_320/d0079cc188e9.jpg
+36e4b704b905,0,train_images/train_images,/content/raw/train_images/train_images/36e4b704b905.png,No DR,/content/processed/images_320/36e4b704b905.jpg
+04aef84a2cc1,0,val_images/val_images,/content/raw/val_images/val_images/04aef84a2cc1.png,No DR,/content/processed/images_320/04aef84a2cc1.jpg
+55f7f018c61c,0,train_images/train_images,/content/raw/train_images/train_images/55f7f018c61c.png,No DR,/content/processed/images_320/55f7f018c61c.jpg
+51cfeccaf40d,2,train_images/train_images,/content/raw/train_images/train_images/51cfeccaf40d.png,Moderate,/content/processed/images_320/51cfeccaf40d.jpg
+180afe1d5ef7,2,val_images/val_images,/content/raw/val_images/val_images/180afe1d5ef7.png,Moderate,/content/processed/images_320/180afe1d5ef7.jpg
+a505981d1cab,2,train_images/train_images,/content/raw/train_images/train_images/a505981d1cab.png,Moderate,/content/processed/images_320/a505981d1cab.jpg
+2682e6da9050,0,train_images/train_images,/content/raw/train_images/train_images/2682e6da9050.png,No DR,/content/processed/images_320/2682e6da9050.jpg
+6fe4751a3b42,0,train_images/train_images,/content/raw/train_images/train_images/6fe4751a3b42.png,No DR,/content/processed/images_320/6fe4751a3b42.jpg
+aa6673241154,4,train_images/train_images,/content/raw/train_images/train_images/aa6673241154.png,Proliferative DR,/content/processed/images_320/aa6673241154.jpg
+acf976efd7ce,0,train_images/train_images,/content/raw/train_images/train_images/acf976efd7ce.png,No DR,/content/processed/images_320/acf976efd7ce.jpg
+abbb8791785e,0,train_images/train_images,/content/raw/train_images/train_images/abbb8791785e.png,No DR,/content/processed/images_320/abbb8791785e.jpg
+fcc55ae641ae,2,test_images/test_images,/content/raw/test_images/test_images/fcc55ae641ae.png,Moderate,/content/processed/images_320/fcc55ae641ae.jpg
+4d3de40ced3a,0,train_images/train_images,/content/raw/train_images/train_images/4d3de40ced3a.png,No DR,/content/processed/images_320/4d3de40ced3a.jpg
+261c6bd63bff,2,train_images/train_images,/content/raw/train_images/train_images/261c6bd63bff.png,Moderate,/content/processed/images_320/261c6bd63bff.jpg
+64ac539f58cb,0,train_images/train_images,/content/raw/train_images/train_images/64ac539f58cb.png,No DR,/content/processed/images_320/64ac539f58cb.jpg
+9f37c98b8187,3,train_images/train_images,/content/raw/train_images/train_images/9f37c98b8187.png,Severe,/content/processed/images_320/9f37c98b8187.jpg
+c9e697117f3f,0,train_images/train_images,/content/raw/train_images/train_images/c9e697117f3f.png,No DR,/content/processed/images_320/c9e697117f3f.jpg
+b746a6681ba9,2,train_images/train_images,/content/raw/train_images/train_images/b746a6681ba9.png,Moderate,/content/processed/images_320/b746a6681ba9.jpg
+48c49f662f7d,2,train_images/train_images,/content/raw/train_images/train_images/48c49f662f7d.png,Moderate,/content/processed/images_320/48c49f662f7d.jpg
+838c87c63422,4,train_images/train_images,/content/raw/train_images/train_images/838c87c63422.png,Proliferative DR,/content/processed/images_320/838c87c63422.jpg
+0b2ea8f268cf,0,val_images/val_images,/content/raw/val_images/val_images/0b2ea8f268cf.png,No DR,/content/processed/images_320/0b2ea8f268cf.jpg
+b05922e7abd3,0,train_images/train_images,/content/raw/train_images/train_images/b05922e7abd3.png,No DR,/content/processed/images_320/b05922e7abd3.jpg
+0eb52045349f,1,val_images/val_images,/content/raw/val_images/val_images/0eb52045349f.png,Mild,/content/processed/images_320/0eb52045349f.jpg
+e12f9f19d1be,0,train_images/train_images,/content/raw/train_images/train_images/e12f9f19d1be.png,No DR,/content/processed/images_320/e12f9f19d1be.jpg
+d27ac9e54901,0,train_images/train_images,/content/raw/train_images/train_images/d27ac9e54901.png,No DR,/content/processed/images_320/d27ac9e54901.jpg
+e0863b353093,2,train_images/train_images,/content/raw/train_images/train_images/e0863b353093.png,Moderate,/content/processed/images_320/e0863b353093.jpg
+ae58ccb5905e,0,train_images/train_images,/content/raw/train_images/train_images/ae58ccb5905e.png,No DR,/content/processed/images_320/ae58ccb5905e.jpg
+ae8424cdb029,2,train_images/train_images,/content/raw/train_images/train_images/ae8424cdb029.png,Moderate,/content/processed/images_320/ae8424cdb029.jpg
+74898f372d2b,0,train_images/train_images,/content/raw/train_images/train_images/74898f372d2b.png,No DR,/content/processed/images_320/74898f372d2b.jpg
+37de05ef12a5,2,train_images/train_images,/content/raw/train_images/train_images/37de05ef12a5.png,Moderate,/content/processed/images_320/37de05ef12a5.jpg
+f850cb51fdba,4,test_images/test_images,/content/raw/test_images/test_images/f850cb51fdba.png,Proliferative DR,/content/processed/images_320/f850cb51fdba.jpg
+cc9270f06b65,1,train_images/train_images,/content/raw/train_images/train_images/cc9270f06b65.png,Mild,/content/processed/images_320/cc9270f06b65.jpg
+87295c5fa1cc,0,train_images/train_images,/content/raw/train_images/train_images/87295c5fa1cc.png,No DR,/content/processed/images_320/87295c5fa1cc.jpg
+d6283ded6aea,2,train_images/train_images,/content/raw/train_images/train_images/d6283ded6aea.png,Moderate,/content/processed/images_320/d6283ded6aea.jpg
+a9e3d186cd1b,0,train_images/train_images,/content/raw/train_images/train_images/a9e3d186cd1b.png,No DR,/content/processed/images_320/a9e3d186cd1b.jpg
+df4913ca3712,4,train_images/train_images,/content/raw/train_images/train_images/df4913ca3712.png,Proliferative DR,/content/processed/images_320/df4913ca3712.jpg
+d78b7401096f,0,train_images/train_images,/content/raw/train_images/train_images/d78b7401096f.png,No DR,/content/processed/images_320/d78b7401096f.jpg
+83b61051737f,2,train_images/train_images,/content/raw/train_images/train_images/83b61051737f.png,Moderate,/content/processed/images_320/83b61051737f.jpg
+fce73678f650,0,test_images/test_images,/content/raw/test_images/test_images/fce73678f650.png,No DR,/content/processed/images_320/fce73678f650.jpg
+3e6bfc4d5c65,2,train_images/train_images,/content/raw/train_images/train_images/3e6bfc4d5c65.png,Moderate,/content/processed/images_320/3e6bfc4d5c65.jpg
+4beeca5cc859,0,train_images/train_images,/content/raw/train_images/train_images/4beeca5cc859.png,No DR,/content/processed/images_320/4beeca5cc859.jpg
+7eeb191ad06b,0,train_images/train_images,/content/raw/train_images/train_images/7eeb191ad06b.png,No DR,/content/processed/images_320/7eeb191ad06b.jpg
+4b5ffea77373,2,train_images/train_images,/content/raw/train_images/train_images/4b5ffea77373.png,Moderate,/content/processed/images_320/4b5ffea77373.jpg
+a9e984b57556,3,train_images/train_images,/content/raw/train_images/train_images/a9e984b57556.png,Severe,/content/processed/images_320/a9e984b57556.jpg
+c6916bc42016,0,train_images/train_images,/content/raw/train_images/train_images/c6916bc42016.png,No DR,/content/processed/images_320/c6916bc42016.jpg
+dcf109df1a2b,0,train_images/train_images,/content/raw/train_images/train_images/dcf109df1a2b.png,No DR,/content/processed/images_320/dcf109df1a2b.jpg
+d866c26d76f0,0,train_images/train_images,/content/raw/train_images/train_images/d866c26d76f0.png,No DR,/content/processed/images_320/d866c26d76f0.jpg
+4dd5d5ccddcf,1,train_images/train_images,/content/raw/train_images/train_images/4dd5d5ccddcf.png,Mild,/content/processed/images_320/4dd5d5ccddcf.jpg
+033f2b43de6d,2,val_images/val_images,/content/raw/val_images/val_images/033f2b43de6d.png,Moderate,/content/processed/images_320/033f2b43de6d.jpg
+aec51513cf45,0,train_images/train_images,/content/raw/train_images/train_images/aec51513cf45.png,No DR,/content/processed/images_320/aec51513cf45.jpg
+71a39c660432,3,train_images/train_images,/content/raw/train_images/train_images/71a39c660432.png,Severe,/content/processed/images_320/71a39c660432.jpg
+d3be5346684b,2,train_images/train_images,/content/raw/train_images/train_images/d3be5346684b.png,Moderate,/content/processed/images_320/d3be5346684b.jpg
+596f4fdb0004,0,train_images/train_images,/content/raw/train_images/train_images/596f4fdb0004.png,No DR,/content/processed/images_320/596f4fdb0004.jpg
+5b994ff78547,0,train_images/train_images,/content/raw/train_images/train_images/5b994ff78547.png,No DR,/content/processed/images_320/5b994ff78547.jpg
+94076a9fb9b5,0,train_images/train_images,/content/raw/train_images/train_images/94076a9fb9b5.png,No DR,/content/processed/images_320/94076a9fb9b5.jpg
+f00ce9b9d6f4,0,test_images/test_images,/content/raw/test_images/test_images/f00ce9b9d6f4.png,No DR,/content/processed/images_320/f00ce9b9d6f4.jpg
+30db694bee42,0,train_images/train_images,/content/raw/train_images/train_images/30db694bee42.png,No DR,/content/processed/images_320/30db694bee42.jpg
+352e4a939242,3,train_images/train_images,/content/raw/train_images/train_images/352e4a939242.png,Severe,/content/processed/images_320/352e4a939242.jpg
+75a071608ea6,0,train_images/train_images,/content/raw/train_images/train_images/75a071608ea6.png,No DR,/content/processed/images_320/75a071608ea6.jpg
+7ba6b23c4b46,0,train_images/train_images,/content/raw/train_images/train_images/7ba6b23c4b46.png,No DR,/content/processed/images_320/7ba6b23c4b46.jpg
+df8365d6ac33,2,train_images/train_images,/content/raw/train_images/train_images/df8365d6ac33.png,Moderate,/content/processed/images_320/df8365d6ac33.jpg
+81bc03e2ff2b,2,train_images/train_images,/content/raw/train_images/train_images/81bc03e2ff2b.png,Moderate,/content/processed/images_320/81bc03e2ff2b.jpg
+1633f8291a80,0,val_images/val_images,/content/raw/val_images/val_images/1633f8291a80.png,No DR,/content/processed/images_320/1633f8291a80.jpg
+789f0ec1eab8,0,train_images/train_images,/content/raw/train_images/train_images/789f0ec1eab8.png,No DR,/content/processed/images_320/789f0ec1eab8.jpg
+de778495a1cd,2,train_images/train_images,/content/raw/train_images/train_images/de778495a1cd.png,Moderate,/content/processed/images_320/de778495a1cd.jpg
+7bc4dd99eee5,4,train_images/train_images,/content/raw/train_images/train_images/7bc4dd99eee5.png,Proliferative DR,/content/processed/images_320/7bc4dd99eee5.jpg
+f85fd4fac887,0,test_images/test_images,/content/raw/test_images/test_images/f85fd4fac887.png,No DR,/content/processed/images_320/f85fd4fac887.jpg
+710b05a96e0f,4,train_images/train_images,/content/raw/train_images/train_images/710b05a96e0f.png,Proliferative DR,/content/processed/images_320/710b05a96e0f.jpg
+194814669fee,1,val_images/val_images,/content/raw/val_images/val_images/194814669fee.png,Mild,/content/processed/images_320/194814669fee.jpg
+f23902998c21,2,test_images/test_images,/content/raw/test_images/test_images/f23902998c21.png,Moderate,/content/processed/images_320/f23902998c21.jpg
+9232dc06cfdc,0,train_images/train_images,/content/raw/train_images/train_images/9232dc06cfdc.png,No DR,/content/processed/images_320/9232dc06cfdc.jpg
+7828dd083cdc,0,train_images/train_images,/content/raw/train_images/train_images/7828dd083cdc.png,No DR,/content/processed/images_320/7828dd083cdc.jpg
+aeccef0bdc26,0,train_images/train_images,/content/raw/train_images/train_images/aeccef0bdc26.png,No DR,/content/processed/images_320/aeccef0bdc26.jpg
+02685f13cefd,4,val_images/val_images,/content/raw/val_images/val_images/02685f13cefd.png,Proliferative DR,/content/processed/images_320/02685f13cefd.jpg
+1c6d119c3d70,2,train_images/train_images,/content/raw/train_images/train_images/1c6d119c3d70.png,Moderate,/content/processed/images_320/1c6d119c3d70.jpg
+d95959798b57,2,train_images/train_images,/content/raw/train_images/train_images/d95959798b57.png,Moderate,/content/processed/images_320/d95959798b57.jpg
+e52ed5c29c5e,3,test_images/test_images,/content/raw/test_images/test_images/e52ed5c29c5e.png,Severe,/content/processed/images_320/e52ed5c29c5e.jpg
+9f436886e056,2,train_images/train_images,/content/raw/train_images/train_images/9f436886e056.png,Moderate,/content/processed/images_320/9f436886e056.jpg
+254052cf3e48,4,train_images/train_images,/content/raw/train_images/train_images/254052cf3e48.png,Proliferative DR,/content/processed/images_320/254052cf3e48.jpg
+ad029ba7fa8b,0,train_images/train_images,/content/raw/train_images/train_images/ad029ba7fa8b.png,No DR,/content/processed/images_320/ad029ba7fa8b.jpg
+345b1f0abbba,0,train_images/train_images,/content/raw/train_images/train_images/345b1f0abbba.png,No DR,/content/processed/images_320/345b1f0abbba.jpg
+0e94cd271c00,0,val_images/val_images,/content/raw/val_images/val_images/0e94cd271c00.png,No DR,/content/processed/images_320/0e94cd271c00.jpg
+f7735b6d47f7,0,test_images/test_images,/content/raw/test_images/test_images/f7735b6d47f7.png,No DR,/content/processed/images_320/f7735b6d47f7.jpg
+cab3dfa7962d,1,train_images/train_images,/content/raw/train_images/train_images/cab3dfa7962d.png,Mild,/content/processed/images_320/cab3dfa7962d.jpg
+4e1e252317b5,0,train_images/train_images,/content/raw/train_images/train_images/4e1e252317b5.png,No DR,/content/processed/images_320/4e1e252317b5.jpg
+2408799a09b2,0,train_images/train_images,/content/raw/train_images/train_images/2408799a09b2.png,No DR,/content/processed/images_320/2408799a09b2.jpg
+9a1029536d78,0,train_images/train_images,/content/raw/train_images/train_images/9a1029536d78.png,No DR,/content/processed/images_320/9a1029536d78.jpg
+875d2ffcbf47,0,train_images/train_images,/content/raw/train_images/train_images/875d2ffcbf47.png,No DR,/content/processed/images_320/875d2ffcbf47.jpg
+07a2b8cabf6b,0,val_images/val_images,/content/raw/val_images/val_images/07a2b8cabf6b.png,No DR,/content/processed/images_320/07a2b8cabf6b.jpg
+b06dabab4f09,2,train_images/train_images,/content/raw/train_images/train_images/b06dabab4f09.png,Moderate,/content/processed/images_320/b06dabab4f09.jpg
+e7a7187066ad,2,test_images/test_images,/content/raw/test_images/test_images/e7a7187066ad.png,Moderate,/content/processed/images_320/e7a7187066ad.jpg
+907aaff827e5,2,train_images/train_images,/content/raw/train_images/train_images/907aaff827e5.png,Moderate,/content/processed/images_320/907aaff827e5.jpg
+72d98188648f,4,train_images/train_images,/content/raw/train_images/train_images/72d98188648f.png,Proliferative DR,/content/processed/images_320/72d98188648f.jpg
+9c088d2d1559,2,train_images/train_images,/content/raw/train_images/train_images/9c088d2d1559.png,Moderate,/content/processed/images_320/9c088d2d1559.jpg
+eb1ad14dd281,2,test_images/test_images,/content/raw/test_images/test_images/eb1ad14dd281.png,Moderate,/content/processed/images_320/eb1ad14dd281.jpg
+16060f05d047,0,val_images/val_images,/content/raw/val_images/val_images/16060f05d047.png,No DR,/content/processed/images_320/16060f05d047.jpg
+42b9c1977681,0,train_images/train_images,/content/raw/train_images/train_images/42b9c1977681.png,No DR,/content/processed/images_320/42b9c1977681.jpg
+4158c340fa49,0,train_images/train_images,/content/raw/train_images/train_images/4158c340fa49.png,No DR,/content/processed/images_320/4158c340fa49.jpg
+a8e08e7fe016,2,train_images/train_images,/content/raw/train_images/train_images/a8e08e7fe016.png,Moderate,/content/processed/images_320/a8e08e7fe016.jpg
+84b88e8d3bca,0,train_images/train_images,/content/raw/train_images/train_images/84b88e8d3bca.png,No DR,/content/processed/images_320/84b88e8d3bca.jpg
+35df2bc6ae95,0,train_images/train_images,/content/raw/train_images/train_images/35df2bc6ae95.png,No DR,/content/processed/images_320/35df2bc6ae95.jpg
+c4a8f2fcf6e8,1,train_images/train_images,/content/raw/train_images/train_images/c4a8f2fcf6e8.png,Mild,/content/processed/images_320/c4a8f2fcf6e8.jpg
+692e946b1f85,0,train_images/train_images,/content/raw/train_images/train_images/692e946b1f85.png,No DR,/content/processed/images_320/692e946b1f85.jpg
+d3e884109b45,3,train_images/train_images,/content/raw/train_images/train_images/d3e884109b45.png,Severe,/content/processed/images_320/d3e884109b45.jpg
+8a8a251770cd,0,train_images/train_images,/content/raw/train_images/train_images/8a8a251770cd.png,No DR,/content/processed/images_320/8a8a251770cd.jpg
+d968a983d4d2,2,train_images/train_images,/content/raw/train_images/train_images/d968a983d4d2.png,Moderate,/content/processed/images_320/d968a983d4d2.jpg
+d7ab5c040294,0,train_images/train_images,/content/raw/train_images/train_images/d7ab5c040294.png,No DR,/content/processed/images_320/d7ab5c040294.jpg
+7f43becd3e83,0,train_images/train_images,/content/raw/train_images/train_images/7f43becd3e83.png,No DR,/content/processed/images_320/7f43becd3e83.jpg
+a9a3225cf4b5,0,train_images/train_images,/content/raw/train_images/train_images/a9a3225cf4b5.png,No DR,/content/processed/images_320/a9a3225cf4b5.jpg
+4c78d9d18da9,2,train_images/train_images,/content/raw/train_images/train_images/4c78d9d18da9.png,Moderate,/content/processed/images_320/4c78d9d18da9.jpg
+bd269a1f0e4d,1,train_images/train_images,/content/raw/train_images/train_images/bd269a1f0e4d.png,Mild,/content/processed/images_320/bd269a1f0e4d.jpg
+2f2e1949ad56,1,train_images/train_images,/content/raw/train_images/train_images/2f2e1949ad56.png,Mild,/content/processed/images_320/2f2e1949ad56.jpg
+7ea756985353,1,train_images/train_images,/content/raw/train_images/train_images/7ea756985353.png,Mild,/content/processed/images_320/7ea756985353.jpg
+959dc602febc,2,train_images/train_images,/content/raw/train_images/train_images/959dc602febc.png,Moderate,/content/processed/images_320/959dc602febc.jpg
+5ca779ace6e7,0,train_images/train_images,/content/raw/train_images/train_images/5ca779ace6e7.png,No DR,/content/processed/images_320/5ca779ace6e7.jpg
+8bed09514c3b,4,train_images/train_images,/content/raw/train_images/train_images/8bed09514c3b.png,Proliferative DR,/content/processed/images_320/8bed09514c3b.jpg
+ff77e8e5b5f3,2,test_images/test_images,/content/raw/test_images/test_images/ff77e8e5b5f3.png,Moderate,/content/processed/images_320/ff77e8e5b5f3.jpg
+f56ff0440ed1,0,test_images/test_images,/content/raw/test_images/test_images/f56ff0440ed1.png,No DR,/content/processed/images_320/f56ff0440ed1.jpg
+3599029efeb3,0,train_images/train_images,/content/raw/train_images/train_images/3599029efeb3.png,No DR,/content/processed/images_320/3599029efeb3.jpg
+9faad91b6578,2,train_images/train_images,/content/raw/train_images/train_images/9faad91b6578.png,Moderate,/content/processed/images_320/9faad91b6578.jpg
+0d310aba6373,1,val_images/val_images,/content/raw/val_images/val_images/0d310aba6373.png,Mild,/content/processed/images_320/0d310aba6373.jpg
+fa9bece586fc,0,test_images/test_images,/content/raw/test_images/test_images/fa9bece586fc.png,No DR,/content/processed/images_320/fa9bece586fc.jpg
+79540be95177,2,train_images/train_images,/content/raw/train_images/train_images/79540be95177.png,Moderate,/content/processed/images_320/79540be95177.jpg
+67ed8cc78b97,0,train_images/train_images,/content/raw/train_images/train_images/67ed8cc78b97.png,No DR,/content/processed/images_320/67ed8cc78b97.jpg
+b91ef82e723a,2,train_images/train_images,/content/raw/train_images/train_images/b91ef82e723a.png,Moderate,/content/processed/images_320/b91ef82e723a.jpg
+a721efb1e049,2,train_images/train_images,/content/raw/train_images/train_images/a721efb1e049.png,Moderate,/content/processed/images_320/a721efb1e049.jpg
+51cd8d2057fa,0,train_images/train_images,/content/raw/train_images/train_images/51cd8d2057fa.png,No DR,/content/processed/images_320/51cd8d2057fa.jpg
+2fdfb80ea53c,0,train_images/train_images,/content/raw/train_images/train_images/2fdfb80ea53c.png,No DR,/content/processed/images_320/2fdfb80ea53c.jpg
+5f70ad48a525,2,train_images/train_images,/content/raw/train_images/train_images/5f70ad48a525.png,Moderate,/content/processed/images_320/5f70ad48a525.jpg
+3cdef7c591cc,0,train_images/train_images,/content/raw/train_images/train_images/3cdef7c591cc.png,No DR,/content/processed/images_320/3cdef7c591cc.jpg
+107aea0d9289,1,val_images/val_images,/content/raw/val_images/val_images/107aea0d9289.png,Mild,/content/processed/images_320/107aea0d9289.jpg
+6d292ca4c9ad,1,train_images/train_images,/content/raw/train_images/train_images/6d292ca4c9ad.png,Mild,/content/processed/images_320/6d292ca4c9ad.jpg
+c3aa424eff9a,0,train_images/train_images,/content/raw/train_images/train_images/c3aa424eff9a.png,No DR,/content/processed/images_320/c3aa424eff9a.jpg
+58b866484a05,4,train_images/train_images,/content/raw/train_images/train_images/58b866484a05.png,Proliferative DR,/content/processed/images_320/58b866484a05.jpg
+628b581aa905,0,train_images/train_images,/content/raw/train_images/train_images/628b581aa905.png,No DR,/content/processed/images_320/628b581aa905.jpg
+9122b31414d3,0,train_images/train_images,/content/raw/train_images/train_images/9122b31414d3.png,No DR,/content/processed/images_320/9122b31414d3.jpg
+a484bdf85b4c,0,train_images/train_images,/content/raw/train_images/train_images/a484bdf85b4c.png,No DR,/content/processed/images_320/a484bdf85b4c.jpg
+bf8092e4001d,3,train_images/train_images,/content/raw/train_images/train_images/bf8092e4001d.png,Severe,/content/processed/images_320/bf8092e4001d.jpg
+d6e26fe51dce,1,train_images/train_images,/content/raw/train_images/train_images/d6e26fe51dce.png,Mild,/content/processed/images_320/d6e26fe51dce.jpg
+c96f743915b5,1,train_images/train_images,/content/raw/train_images/train_images/c96f743915b5.png,Mild,/content/processed/images_320/c96f743915b5.jpg
+5264a54e1830,0,train_images/train_images,/content/raw/train_images/train_images/5264a54e1830.png,No DR,/content/processed/images_320/5264a54e1830.jpg
+da1fb35f5df9,1,train_images/train_images,/content/raw/train_images/train_images/da1fb35f5df9.png,Mild,/content/processed/images_320/da1fb35f5df9.jpg
+d85588ff2ebd,1,train_images/train_images,/content/raw/train_images/train_images/d85588ff2ebd.png,Mild,/content/processed/images_320/d85588ff2ebd.jpg
+aae8f9f3ef8c,3,train_images/train_images,/content/raw/train_images/train_images/aae8f9f3ef8c.png,Severe,/content/processed/images_320/aae8f9f3ef8c.jpg
+c0e15e8e2b46,1,train_images/train_images,/content/raw/train_images/train_images/c0e15e8e2b46.png,Mild,/content/processed/images_320/c0e15e8e2b46.jpg
+435414ccccf7,0,train_images/train_images,/content/raw/train_images/train_images/435414ccccf7.png,No DR,/content/processed/images_320/435414ccccf7.jpg
+7a3ea1779b13,1,train_images/train_images,/content/raw/train_images/train_images/7a3ea1779b13.png,Mild,/content/processed/images_320/7a3ea1779b13.jpg
+262ad704319c,4,train_images/train_images,/content/raw/train_images/train_images/262ad704319c.png,Proliferative DR,/content/processed/images_320/262ad704319c.jpg
+8d7bb0649a02,2,train_images/train_images,/content/raw/train_images/train_images/8d7bb0649a02.png,Moderate,/content/processed/images_320/8d7bb0649a02.jpg
+3ee4841936ef,4,train_images/train_images,/content/raw/train_images/train_images/3ee4841936ef.png,Proliferative DR,/content/processed/images_320/3ee4841936ef.jpg
+f549294e12e1,4,test_images/test_images,/content/raw/test_images/test_images/f549294e12e1.png,Proliferative DR,/content/processed/images_320/f549294e12e1.jpg
+09935d72892b,1,val_images/val_images,/content/raw/val_images/val_images/09935d72892b.png,Mild,/content/processed/images_320/09935d72892b.jpg
+e7291472109b,0,test_images/test_images,/content/raw/test_images/test_images/e7291472109b.png,No DR,/content/processed/images_320/e7291472109b.jpg
+0ca0aee4d57e,2,val_images/val_images,/content/raw/val_images/val_images/0ca0aee4d57e.png,Moderate,/content/processed/images_320/0ca0aee4d57e.jpg
+a07efb1ecfc0,0,train_images/train_images,/content/raw/train_images/train_images/a07efb1ecfc0.png,No DR,/content/processed/images_320/a07efb1ecfc0.jpg
+a01024054596,1,train_images/train_images,/content/raw/train_images/train_images/a01024054596.png,Mild,/content/processed/images_320/a01024054596.jpg
+d69698f838db,0,train_images/train_images,/content/raw/train_images/train_images/d69698f838db.png,No DR,/content/processed/images_320/d69698f838db.jpg
+f5650eb52640,1,test_images/test_images,/content/raw/test_images/test_images/f5650eb52640.png,Mild,/content/processed/images_320/f5650eb52640.jpg
+e6552b7432b3,0,test_images/test_images,/content/raw/test_images/test_images/e6552b7432b3.png,No DR,/content/processed/images_320/e6552b7432b3.jpg
+a14bbd9a583e,3,train_images/train_images,/content/raw/train_images/train_images/a14bbd9a583e.png,Severe,/content/processed/images_320/a14bbd9a583e.jpg
+e26bcae6c67b,0,train_images/train_images,/content/raw/train_images/train_images/e26bcae6c67b.png,No DR,/content/processed/images_320/e26bcae6c67b.jpg
+1c0e5dd1b14c,2,train_images/train_images,/content/raw/train_images/train_images/1c0e5dd1b14c.png,Moderate,/content/processed/images_320/1c0e5dd1b14c.jpg
+f1a761c68559,2,test_images/test_images,/content/raw/test_images/test_images/f1a761c68559.png,Moderate,/content/processed/images_320/f1a761c68559.jpg
+f5733f77273d,0,test_images/test_images,/content/raw/test_images/test_images/f5733f77273d.png,No DR,/content/processed/images_320/f5733f77273d.jpg
+cd93a472e5cd,4,train_images/train_images,/content/raw/train_images/train_images/cd93a472e5cd.png,Proliferative DR,/content/processed/images_320/cd93a472e5cd.jpg
+3f6c627e2ff2,0,train_images/train_images,/content/raw/train_images/train_images/3f6c627e2ff2.png,No DR,/content/processed/images_320/3f6c627e2ff2.jpg
+a88f68b0b114,2,train_images/train_images,/content/raw/train_images/train_images/a88f68b0b114.png,Moderate,/content/processed/images_320/a88f68b0b114.jpg
+5265dc9acdf8,2,train_images/train_images,/content/raw/train_images/train_images/5265dc9acdf8.png,Moderate,/content/processed/images_320/5265dc9acdf8.jpg
+0fb1053285cf,1,val_images/val_images,/content/raw/val_images/val_images/0fb1053285cf.png,Mild,/content/processed/images_320/0fb1053285cf.jpg
+35d6c4c50072,1,train_images/train_images,/content/raw/train_images/train_images/35d6c4c50072.png,Mild,/content/processed/images_320/35d6c4c50072.jpg
+45e4b7eada54,1,train_images/train_images,/content/raw/train_images/train_images/45e4b7eada54.png,Mild,/content/processed/images_320/45e4b7eada54.jpg
+f64214bed40e,3,test_images/test_images,/content/raw/test_images/test_images/f64214bed40e.png,Severe,/content/processed/images_320/f64214bed40e.jpg
+22ce8ef69357,2,train_images/train_images,/content/raw/train_images/train_images/22ce8ef69357.png,Moderate,/content/processed/images_320/22ce8ef69357.jpg
+ef7a4ed8d5d1,2,test_images/test_images,/content/raw/test_images/test_images/ef7a4ed8d5d1.png,Moderate,/content/processed/images_320/ef7a4ed8d5d1.jpg
+2a3378bcfbcc,2,train_images/train_images,/content/raw/train_images/train_images/2a3378bcfbcc.png,Moderate,/content/processed/images_320/2a3378bcfbcc.jpg
+eb1d37b71fd1,4,test_images/test_images,/content/raw/test_images/test_images/eb1d37b71fd1.png,Proliferative DR,/content/processed/images_320/eb1d37b71fd1.jpg
+57f933d3d7c7,2,train_images/train_images,/content/raw/train_images/train_images/57f933d3d7c7.png,Moderate,/content/processed/images_320/57f933d3d7c7.jpg
+0afdfe5f422c,2,val_images/val_images,/content/raw/val_images/val_images/0afdfe5f422c.png,Moderate,/content/processed/images_320/0afdfe5f422c.jpg
+2967e578939f,2,train_images/train_images,/content/raw/train_images/train_images/2967e578939f.png,Moderate,/content/processed/images_320/2967e578939f.jpg
+a821b6ecef33,0,train_images/train_images,/content/raw/train_images/train_images/a821b6ecef33.png,No DR,/content/processed/images_320/a821b6ecef33.jpg
+40c24aded50c,0,train_images/train_images,/content/raw/train_images/train_images/40c24aded50c.png,No DR,/content/processed/images_320/40c24aded50c.jpg
+e4f12411fd85,4,test_images/test_images,/content/raw/test_images/test_images/e4f12411fd85.png,Proliferative DR,/content/processed/images_320/e4f12411fd85.jpg
+201f6e10c108,0,train_images/train_images,/content/raw/train_images/train_images/201f6e10c108.png,No DR,/content/processed/images_320/201f6e10c108.jpg
+4bcee3cbe232,0,train_images/train_images,/content/raw/train_images/train_images/4bcee3cbe232.png,No DR,/content/processed/images_320/4bcee3cbe232.jpg
+a12ca80bb8c7,0,train_images/train_images,/content/raw/train_images/train_images/a12ca80bb8c7.png,No DR,/content/processed/images_320/a12ca80bb8c7.jpg
+1dfbede13143,2,train_images/train_images,/content/raw/train_images/train_images/1dfbede13143.png,Moderate,/content/processed/images_320/1dfbede13143.jpg
+ff4832d55461,0,test_images/test_images,/content/raw/test_images/test_images/ff4832d55461.png,No DR,/content/processed/images_320/ff4832d55461.jpg
+92fcf50b3562,0,train_images/train_images,/content/raw/train_images/train_images/92fcf50b3562.png,No DR,/content/processed/images_320/92fcf50b3562.jpg
+51269b77d312,3,train_images/train_images,/content/raw/train_images/train_images/51269b77d312.png,Severe,/content/processed/images_320/51269b77d312.jpg
+c56e65f74187,1,train_images/train_images,/content/raw/train_images/train_images/c56e65f74187.png,Mild,/content/processed/images_320/c56e65f74187.jpg
+274f4de2a59d,0,train_images/train_images,/content/raw/train_images/train_images/274f4de2a59d.png,No DR,/content/processed/images_320/274f4de2a59d.jpg
+7dee6bf8b9c1,2,train_images/train_images,/content/raw/train_images/train_images/7dee6bf8b9c1.png,Moderate,/content/processed/images_320/7dee6bf8b9c1.jpg
+3748349334f6,2,train_images/train_images,/content/raw/train_images/train_images/3748349334f6.png,Moderate,/content/processed/images_320/3748349334f6.jpg
+c62cef02efa2,0,train_images/train_images,/content/raw/train_images/train_images/c62cef02efa2.png,No DR,/content/processed/images_320/c62cef02efa2.jpg
+29f9e1ac9507,0,train_images/train_images,/content/raw/train_images/train_images/29f9e1ac9507.png,No DR,/content/processed/images_320/29f9e1ac9507.jpg
+8596a24a14bd,4,train_images/train_images,/content/raw/train_images/train_images/8596a24a14bd.png,Proliferative DR,/content/processed/images_320/8596a24a14bd.jpg
+887c26fc0e1f,4,train_images/train_images,/content/raw/train_images/train_images/887c26fc0e1f.png,Proliferative DR,/content/processed/images_320/887c26fc0e1f.jpg
+71e43b4f8ba6,0,train_images/train_images,/content/raw/train_images/train_images/71e43b4f8ba6.png,No DR,/content/processed/images_320/71e43b4f8ba6.jpg
+7663aba8d762,2,train_images/train_images,/content/raw/train_images/train_images/7663aba8d762.png,Moderate,/content/processed/images_320/7663aba8d762.jpg
+4e7694eebb91,2,train_images/train_images,/content/raw/train_images/train_images/4e7694eebb91.png,Moderate,/content/processed/images_320/4e7694eebb91.jpg
+5db2e3a4594a,0,train_images/train_images,/content/raw/train_images/train_images/5db2e3a4594a.png,No DR,/content/processed/images_320/5db2e3a4594a.jpg
+85cc6d636898,2,train_images/train_images,/content/raw/train_images/train_images/85cc6d636898.png,Moderate,/content/processed/images_320/85cc6d636898.jpg
+2cbfc6182ba2,2,train_images/train_images,/content/raw/train_images/train_images/2cbfc6182ba2.png,Moderate,/content/processed/images_320/2cbfc6182ba2.jpg
+545df1bbcd61,1,train_images/train_images,/content/raw/train_images/train_images/545df1bbcd61.png,Mild,/content/processed/images_320/545df1bbcd61.jpg
+359bab5d784b,0,train_images/train_images,/content/raw/train_images/train_images/359bab5d784b.png,No DR,/content/processed/images_320/359bab5d784b.jpg
+62318d514160,4,train_images/train_images,/content/raw/train_images/train_images/62318d514160.png,Proliferative DR,/content/processed/images_320/62318d514160.jpg
+76095c338728,0,train_images/train_images,/content/raw/train_images/train_images/76095c338728.png,No DR,/content/processed/images_320/76095c338728.jpg
+a015ce4f51ad,2,train_images/train_images,/content/raw/train_images/train_images/a015ce4f51ad.png,Moderate,/content/processed/images_320/a015ce4f51ad.jpg
+41ab357d103f,0,train_images/train_images,/content/raw/train_images/train_images/41ab357d103f.png,No DR,/content/processed/images_320/41ab357d103f.jpg
+01f7bb8be950,0,val_images/val_images,/content/raw/val_images/val_images/01f7bb8be950.png,No DR,/content/processed/images_320/01f7bb8be950.jpg
+b64e1eef3d63,0,train_images/train_images,/content/raw/train_images/train_images/b64e1eef3d63.png,No DR,/content/processed/images_320/b64e1eef3d63.jpg
+6c9c902a97de,0,train_images/train_images,/content/raw/train_images/train_images/6c9c902a97de.png,No DR,/content/processed/images_320/6c9c902a97de.jpg
+61f403fdb434,4,train_images/train_images,/content/raw/train_images/train_images/61f403fdb434.png,Proliferative DR,/content/processed/images_320/61f403fdb434.jpg
+66393d8c60ba,0,train_images/train_images,/content/raw/train_images/train_images/66393d8c60ba.png,No DR,/content/processed/images_320/66393d8c60ba.jpg
+4e8585a96739,0,train_images/train_images,/content/raw/train_images/train_images/4e8585a96739.png,No DR,/content/processed/images_320/4e8585a96739.jpg
+022f820027b8,0,val_images/val_images,/content/raw/val_images/val_images/022f820027b8.png,No DR,/content/processed/images_320/022f820027b8.jpg
+5a11d21c2828,2,train_images/train_images,/content/raw/train_images/train_images/5a11d21c2828.png,Moderate,/content/processed/images_320/5a11d21c2828.jpg
+abe940882578,0,train_images/train_images,/content/raw/train_images/train_images/abe940882578.png,No DR,/content/processed/images_320/abe940882578.jpg
+ad6b07d5c338,0,train_images/train_images,/content/raw/train_images/train_images/ad6b07d5c338.png,No DR,/content/processed/images_320/ad6b07d5c338.jpg
+e59c5f345bb0,0,test_images/test_images,/content/raw/test_images/test_images/e59c5f345bb0.png,No DR,/content/processed/images_320/e59c5f345bb0.jpg
+04efb1a284cc,0,val_images/val_images,/content/raw/val_images/val_images/04efb1a284cc.png,No DR,/content/processed/images_320/04efb1a284cc.jpg
+ccd6dcb2f568,0,train_images/train_images,/content/raw/train_images/train_images/ccd6dcb2f568.png,No DR,/content/processed/images_320/ccd6dcb2f568.jpg
+2735be026d44,2,train_images/train_images,/content/raw/train_images/train_images/2735be026d44.png,Moderate,/content/processed/images_320/2735be026d44.jpg
+e5de79795c1d,0,test_images/test_images,/content/raw/test_images/test_images/e5de79795c1d.png,No DR,/content/processed/images_320/e5de79795c1d.jpg
+882a71de424e,2,train_images/train_images,/content/raw/train_images/train_images/882a71de424e.png,Moderate,/content/processed/images_320/882a71de424e.jpg
+0ce062f26edc,0,val_images/val_images,/content/raw/val_images/val_images/0ce062f26edc.png,No DR,/content/processed/images_320/0ce062f26edc.jpg
+233d948e2544,0,train_images/train_images,/content/raw/train_images/train_images/233d948e2544.png,No DR,/content/processed/images_320/233d948e2544.jpg
+05cd0178ccfe,3,val_images/val_images,/content/raw/val_images/val_images/05cd0178ccfe.png,Severe,/content/processed/images_320/05cd0178ccfe.jpg
+ace287a5c991,0,train_images/train_images,/content/raw/train_images/train_images/ace287a5c991.png,No DR,/content/processed/images_320/ace287a5c991.jpg
+31b5d6fb0256,2,train_images/train_images,/content/raw/train_images/train_images/31b5d6fb0256.png,Moderate,/content/processed/images_320/31b5d6fb0256.jpg
+f0c0f7b5e820,2,test_images/test_images,/content/raw/test_images/test_images/f0c0f7b5e820.png,Moderate,/content/processed/images_320/f0c0f7b5e820.jpg
+d9d2631f043c,0,train_images/train_images,/content/raw/train_images/train_images/d9d2631f043c.png,No DR,/content/processed/images_320/d9d2631f043c.jpg
+0ada12c0e78f,4,val_images/val_images,/content/raw/val_images/val_images/0ada12c0e78f.png,Proliferative DR,/content/processed/images_320/0ada12c0e78f.jpg
+441117562359,2,train_images/train_images,/content/raw/train_images/train_images/441117562359.png,Moderate,/content/processed/images_320/441117562359.jpg
+1c4f3aa4df06,4,train_images/train_images,/content/raw/train_images/train_images/1c4f3aa4df06.png,Proliferative DR,/content/processed/images_320/1c4f3aa4df06.jpg
+1faf8664816c,0,train_images/train_images,/content/raw/train_images/train_images/1faf8664816c.png,No DR,/content/processed/images_320/1faf8664816c.jpg
+0924cec998fa,0,val_images/val_images,/content/raw/val_images/val_images/0924cec998fa.png,No DR,/content/processed/images_320/0924cec998fa.jpg
+4fa26d065ad3,1,train_images/train_images,/content/raw/train_images/train_images/4fa26d065ad3.png,Mild,/content/processed/images_320/4fa26d065ad3.jpg
+ae94ce412de9,0,train_images/train_images,/content/raw/train_images/train_images/ae94ce412de9.png,No DR,/content/processed/images_320/ae94ce412de9.jpg
+e79e10907295,0,test_images/test_images,/content/raw/test_images/test_images/e79e10907295.png,No DR,/content/processed/images_320/e79e10907295.jpg
+6a2642131e4a,0,train_images/train_images,/content/raw/train_images/train_images/6a2642131e4a.png,No DR,/content/processed/images_320/6a2642131e4a.jpg
+289a47dcbb82,0,train_images/train_images,/content/raw/train_images/train_images/289a47dcbb82.png,No DR,/content/processed/images_320/289a47dcbb82.jpg
+07a0e34c8d20,3,val_images/val_images,/content/raw/val_images/val_images/07a0e34c8d20.png,Severe,/content/processed/images_320/07a0e34c8d20.jpg
+7fe7309d0b4f,0,train_images/train_images,/content/raw/train_images/train_images/7fe7309d0b4f.png,No DR,/content/processed/images_320/7fe7309d0b4f.jpg
+25002fe43f92,2,train_images/train_images,/content/raw/train_images/train_images/25002fe43f92.png,Moderate,/content/processed/images_320/25002fe43f92.jpg
+9d9bfefa809c,2,train_images/train_images,/content/raw/train_images/train_images/9d9bfefa809c.png,Moderate,/content/processed/images_320/9d9bfefa809c.jpg
+2d552318eb07,2,train_images/train_images,/content/raw/train_images/train_images/2d552318eb07.png,Moderate,/content/processed/images_320/2d552318eb07.jpg
+e160a3b19911,0,train_images/train_images,/content/raw/train_images/train_images/e160a3b19911.png,No DR,/content/processed/images_320/e160a3b19911.jpg
+9a28d4e8aef0,2,train_images/train_images,/content/raw/train_images/train_images/9a28d4e8aef0.png,Moderate,/content/processed/images_320/9a28d4e8aef0.jpg
+b6bfe9db60e5,3,train_images/train_images,/content/raw/train_images/train_images/b6bfe9db60e5.png,Severe,/content/processed/images_320/b6bfe9db60e5.jpg
+96ce10a1dbd7,0,train_images/train_images,/content/raw/train_images/train_images/96ce10a1dbd7.png,No DR,/content/processed/images_320/96ce10a1dbd7.jpg
+799cb4c816ae,2,train_images/train_images,/content/raw/train_images/train_images/799cb4c816ae.png,Moderate,/content/processed/images_320/799cb4c816ae.jpg
+eb175669d789,0,test_images/test_images,/content/raw/test_images/test_images/eb175669d789.png,No DR,/content/processed/images_320/eb175669d789.jpg
+401fdfd0db07,0,train_images/train_images,/content/raw/train_images/train_images/401fdfd0db07.png,No DR,/content/processed/images_320/401fdfd0db07.jpg
+4731e708ede3,0,train_images/train_images,/content/raw/train_images/train_images/4731e708ede3.png,No DR,/content/processed/images_320/4731e708ede3.jpg
+445a8a6da55c,0,train_images/train_images,/content/raw/train_images/train_images/445a8a6da55c.png,No DR,/content/processed/images_320/445a8a6da55c.jpg
+e2856afe62c5,2,train_images/train_images,/content/raw/train_images/train_images/e2856afe62c5.png,Moderate,/content/processed/images_320/e2856afe62c5.jpg
+4c389d033cb0,0,train_images/train_images,/content/raw/train_images/train_images/4c389d033cb0.png,No DR,/content/processed/images_320/4c389d033cb0.jpg
+d2fb715b0c41,0,train_images/train_images,/content/raw/train_images/train_images/d2fb715b0c41.png,No DR,/content/processed/images_320/d2fb715b0c41.jpg
+404ede327e98,0,train_images/train_images,/content/raw/train_images/train_images/404ede327e98.png,No DR,/content/processed/images_320/404ede327e98.jpg
+cd941e5bc659,0,train_images/train_images,/content/raw/train_images/train_images/cd941e5bc659.png,No DR,/content/processed/images_320/cd941e5bc659.jpg
+a182b5b191de,4,train_images/train_images,/content/raw/train_images/train_images/a182b5b191de.png,Proliferative DR,/content/processed/images_320/a182b5b191de.jpg
+b9fe7da14a32,0,train_images/train_images,/content/raw/train_images/train_images/b9fe7da14a32.png,No DR,/content/processed/images_320/b9fe7da14a32.jpg
+b96b518596b3,4,train_images/train_images,/content/raw/train_images/train_images/b96b518596b3.png,Proliferative DR,/content/processed/images_320/b96b518596b3.jpg
+b77b88926843,0,train_images/train_images,/content/raw/train_images/train_images/b77b88926843.png,No DR,/content/processed/images_320/b77b88926843.jpg
+3823acc4e464,0,train_images/train_images,/content/raw/train_images/train_images/3823acc4e464.png,No DR,/content/processed/images_320/3823acc4e464.jpg
+34acae864963,0,train_images/train_images,/content/raw/train_images/train_images/34acae864963.png,No DR,/content/processed/images_320/34acae864963.jpg
+5e7cc6ab4ac4,2,train_images/train_images,/content/raw/train_images/train_images/5e7cc6ab4ac4.png,Moderate,/content/processed/images_320/5e7cc6ab4ac4.jpg
+fcc6aa6755e6,3,test_images/test_images,/content/raw/test_images/test_images/fcc6aa6755e6.png,Severe,/content/processed/images_320/fcc6aa6755e6.jpg
+760b6f4c6d82,2,train_images/train_images,/content/raw/train_images/train_images/760b6f4c6d82.png,Moderate,/content/processed/images_320/760b6f4c6d82.jpg
+9cf7c1349673,0,train_images/train_images,/content/raw/train_images/train_images/9cf7c1349673.png,No DR,/content/processed/images_320/9cf7c1349673.jpg
+c9f0dc2c8b43,2,train_images/train_images,/content/raw/train_images/train_images/c9f0dc2c8b43.png,Moderate,/content/processed/images_320/c9f0dc2c8b43.jpg
+9870ce41cac4,0,train_images/train_images,/content/raw/train_images/train_images/9870ce41cac4.png,No DR,/content/processed/images_320/9870ce41cac4.jpg
+f2ee81781411,2,test_images/test_images,/content/raw/test_images/test_images/f2ee81781411.png,Moderate,/content/processed/images_320/f2ee81781411.jpg
+eedae6b28f96,0,test_images/test_images,/content/raw/test_images/test_images/eedae6b28f96.png,No DR,/content/processed/images_320/eedae6b28f96.jpg
+de18071c36e6,0,train_images/train_images,/content/raw/train_images/train_images/de18071c36e6.png,No DR,/content/processed/images_320/de18071c36e6.jpg
+b8fb9f55cd6d,2,train_images/train_images,/content/raw/train_images/train_images/b8fb9f55cd6d.png,Moderate,/content/processed/images_320/b8fb9f55cd6d.jpg
+4d1e7def7624,0,train_images/train_images,/content/raw/train_images/train_images/4d1e7def7624.png,No DR,/content/processed/images_320/4d1e7def7624.jpg
+5e5275ddee29,0,train_images/train_images,/content/raw/train_images/train_images/5e5275ddee29.png,No DR,/content/processed/images_320/5e5275ddee29.jpg
+7526cf435753,0,train_images/train_images,/content/raw/train_images/train_images/7526cf435753.png,No DR,/content/processed/images_320/7526cf435753.jpg
+5257cb536da2,0,train_images/train_images,/content/raw/train_images/train_images/5257cb536da2.png,No DR,/content/processed/images_320/5257cb536da2.jpg
+07596907347b,0,val_images/val_images,/content/raw/val_images/val_images/07596907347b.png,No DR,/content/processed/images_320/07596907347b.jpg
+064af6592ba6,2,val_images/val_images,/content/raw/val_images/val_images/064af6592ba6.png,Moderate,/content/processed/images_320/064af6592ba6.jpg
+ff03f74667df,0,test_images/test_images,/content/raw/test_images/test_images/ff03f74667df.png,No DR,/content/processed/images_320/ff03f74667df.jpg
+d4bc001f7224,0,train_images/train_images,/content/raw/train_images/train_images/d4bc001f7224.png,No DR,/content/processed/images_320/d4bc001f7224.jpg
+fd48cf452e9d,2,test_images/test_images,/content/raw/test_images/test_images/fd48cf452e9d.png,Moderate,/content/processed/images_320/fd48cf452e9d.jpg
+7350c50667c5,2,train_images/train_images,/content/raw/train_images/train_images/7350c50667c5.png,Moderate,/content/processed/images_320/7350c50667c5.jpg
+06b71823f9cd,1,val_images/val_images,/content/raw/val_images/val_images/06b71823f9cd.png,Mild,/content/processed/images_320/06b71823f9cd.jpg
+be6cbf6e5b10,0,train_images/train_images,/content/raw/train_images/train_images/be6cbf6e5b10.png,No DR,/content/processed/images_320/be6cbf6e5b10.jpg
+1d46f1326394,0,train_images/train_images,/content/raw/train_images/train_images/1d46f1326394.png,No DR,/content/processed/images_320/1d46f1326394.jpg
+c2d2b4f536da,2,train_images/train_images,/content/raw/train_images/train_images/c2d2b4f536da.png,Moderate,/content/processed/images_320/c2d2b4f536da.jpg
+586f5c56081e,0,train_images/train_images,/content/raw/train_images/train_images/586f5c56081e.png,No DR,/content/processed/images_320/586f5c56081e.jpg
+a86128b601a7,0,train_images/train_images,/content/raw/train_images/train_images/a86128b601a7.png,No DR,/content/processed/images_320/a86128b601a7.jpg
+eda1d75cbcf0,0,test_images/test_images,/content/raw/test_images/test_images/eda1d75cbcf0.png,No DR,/content/processed/images_320/eda1d75cbcf0.jpg
+8543a801dce0,2,train_images/train_images,/content/raw/train_images/train_images/8543a801dce0.png,Moderate,/content/processed/images_320/8543a801dce0.jpg
+518e880613de,4,train_images/train_images,/content/raw/train_images/train_images/518e880613de.png,Proliferative DR,/content/processed/images_320/518e880613de.jpg
+ee77763a6afb,0,test_images/test_images,/content/raw/test_images/test_images/ee77763a6afb.png,No DR,/content/processed/images_320/ee77763a6afb.jpg
+fd079d2e93a2,0,test_images/test_images,/content/raw/test_images/test_images/fd079d2e93a2.png,No DR,/content/processed/images_320/fd079d2e93a2.jpg
+2a93334f663a,0,train_images/train_images,/content/raw/train_images/train_images/2a93334f663a.png,No DR,/content/processed/images_320/2a93334f663a.jpg
+8a234d68b27e,3,train_images/train_images,/content/raw/train_images/train_images/8a234d68b27e.png,Severe,/content/processed/images_320/8a234d68b27e.jpg
+e03e70bc8bba,2,train_images/train_images,/content/raw/train_images/train_images/e03e70bc8bba.png,Moderate,/content/processed/images_320/e03e70bc8bba.jpg
+b598bc9753c2,0,train_images/train_images,/content/raw/train_images/train_images/b598bc9753c2.png,No DR,/content/processed/images_320/b598bc9753c2.jpg
+595446774178,1,train_images/train_images,/content/raw/train_images/train_images/595446774178.png,Mild,/content/processed/images_320/595446774178.jpg
+8db2ce991101,4,train_images/train_images,/content/raw/train_images/train_images/8db2ce991101.png,Proliferative DR,/content/processed/images_320/8db2ce991101.jpg
+8a7765e785fb,0,train_images/train_images,/content/raw/train_images/train_images/8a7765e785fb.png,No DR,/content/processed/images_320/8a7765e785fb.jpg
+6b869f37cdf3,2,train_images/train_images,/content/raw/train_images/train_images/6b869f37cdf3.png,Moderate,/content/processed/images_320/6b869f37cdf3.jpg
+af133a85ea0c,1,train_images/train_images,/content/raw/train_images/train_images/af133a85ea0c.png,Mild,/content/processed/images_320/af133a85ea0c.jpg
+e50b0174690d,0,test_images/test_images,/content/raw/test_images/test_images/e50b0174690d.png,No DR,/content/processed/images_320/e50b0174690d.jpg
+4d17559ac1e2,0,train_images/train_images,/content/raw/train_images/train_images/4d17559ac1e2.png,No DR,/content/processed/images_320/4d17559ac1e2.jpg
+90c982cc2d96,1,train_images/train_images,/content/raw/train_images/train_images/90c982cc2d96.png,Mild,/content/processed/images_320/90c982cc2d96.jpg
+9bd008aab548,0,train_images/train_images,/content/raw/train_images/train_images/9bd008aab548.png,No DR,/content/processed/images_320/9bd008aab548.jpg
+09934421c79e,0,val_images/val_images,/content/raw/val_images/val_images/09934421c79e.png,No DR,/content/processed/images_320/09934421c79e.jpg
+d57d1be1bbd1,0,train_images/train_images,/content/raw/train_images/train_images/d57d1be1bbd1.png,No DR,/content/processed/images_320/d57d1be1bbd1.jpg
+ea4dcb055139,2,test_images/test_images,/content/raw/test_images/test_images/ea4dcb055139.png,Moderate,/content/processed/images_320/ea4dcb055139.jpg
+aa5ce75edcf5,2,train_images/train_images,/content/raw/train_images/train_images/aa5ce75edcf5.png,Moderate,/content/processed/images_320/aa5ce75edcf5.jpg
+880edb2cdb69,0,train_images/train_images,/content/raw/train_images/train_images/880edb2cdb69.png,No DR,/content/processed/images_320/880edb2cdb69.jpg
+f02057c41256,0,test_images/test_images,/content/raw/test_images/test_images/f02057c41256.png,No DR,/content/processed/images_320/f02057c41256.jpg
+9cedf5c7016b,2,train_images/train_images,/content/raw/train_images/train_images/9cedf5c7016b.png,Moderate,/content/processed/images_320/9cedf5c7016b.jpg
+bf6cbccacf39,0,train_images/train_images,/content/raw/train_images/train_images/bf6cbccacf39.png,No DR,/content/processed/images_320/bf6cbccacf39.jpg
+f6f3ea0d2693,4,test_images/test_images,/content/raw/test_images/test_images/f6f3ea0d2693.png,Proliferative DR,/content/processed/images_320/f6f3ea0d2693.jpg
+096436d68d06,0,val_images/val_images,/content/raw/val_images/val_images/096436d68d06.png,No DR,/content/processed/images_320/096436d68d06.jpg
+c64c0966b4cf,0,train_images/train_images,/content/raw/train_images/train_images/c64c0966b4cf.png,No DR,/content/processed/images_320/c64c0966b4cf.jpg
+8344c783da65,0,train_images/train_images,/content/raw/train_images/train_images/8344c783da65.png,No DR,/content/processed/images_320/8344c783da65.jpg
+78bcdffb8785,1,train_images/train_images,/content/raw/train_images/train_images/78bcdffb8785.png,Mild,/content/processed/images_320/78bcdffb8785.jpg
+a1822dd8d05d,0,train_images/train_images,/content/raw/train_images/train_images/a1822dd8d05d.png,No DR,/content/processed/images_320/a1822dd8d05d.jpg
+a00b4cb250a7,1,train_images/train_images,/content/raw/train_images/train_images/a00b4cb250a7.png,Mild,/content/processed/images_320/a00b4cb250a7.jpg
+c0a0828e01b4,3,train_images/train_images,/content/raw/train_images/train_images/c0a0828e01b4.png,Severe,/content/processed/images_320/c0a0828e01b4.jpg
+663a923d5398,2,train_images/train_images,/content/raw/train_images/train_images/663a923d5398.png,Moderate,/content/processed/images_320/663a923d5398.jpg
+a9b3177f01c0,0,train_images/train_images,/content/raw/train_images/train_images/a9b3177f01c0.png,No DR,/content/processed/images_320/a9b3177f01c0.jpg
+467b7d9d811c,2,train_images/train_images,/content/raw/train_images/train_images/467b7d9d811c.png,Moderate,/content/processed/images_320/467b7d9d811c.jpg
+721214151233,0,train_images/train_images,/content/raw/train_images/train_images/721214151233.png,No DR,/content/processed/images_320/721214151233.jpg
+7569ac24762e,0,train_images/train_images,/content/raw/train_images/train_images/7569ac24762e.png,No DR,/content/processed/images_320/7569ac24762e.jpg
+8bdb891661a8,2,train_images/train_images,/content/raw/train_images/train_images/8bdb891661a8.png,Moderate,/content/processed/images_320/8bdb891661a8.jpg
+a75bab2463d4,1,train_images/train_images,/content/raw/train_images/train_images/a75bab2463d4.png,Mild,/content/processed/images_320/a75bab2463d4.jpg
+a06e41bd2634,2,train_images/train_images,/content/raw/train_images/train_images/a06e41bd2634.png,Moderate,/content/processed/images_320/a06e41bd2634.jpg
+ee74c3b177e0,2,test_images/test_images,/content/raw/test_images/test_images/ee74c3b177e0.png,Moderate,/content/processed/images_320/ee74c3b177e0.jpg
+3ca8be3b40d6,0,train_images/train_images,/content/raw/train_images/train_images/3ca8be3b40d6.png,No DR,/content/processed/images_320/3ca8be3b40d6.jpg
+58184d6fd087,1,train_images/train_images,/content/raw/train_images/train_images/58184d6fd087.png,Mild,/content/processed/images_320/58184d6fd087.jpg
+8ab8d9b3ce3f,2,train_images/train_images,/content/raw/train_images/train_images/8ab8d9b3ce3f.png,Moderate,/content/processed/images_320/8ab8d9b3ce3f.jpg
+b5e6ae31493c,0,train_images/train_images,/content/raw/train_images/train_images/b5e6ae31493c.png,No DR,/content/processed/images_320/b5e6ae31493c.jpg
+6e3526053de0,0,train_images/train_images,/content/raw/train_images/train_images/6e3526053de0.png,No DR,/content/processed/images_320/6e3526053de0.jpg
+33b91def2035,0,train_images/train_images,/content/raw/train_images/train_images/33b91def2035.png,No DR,/content/processed/images_320/33b91def2035.jpg
+18cde9649e90,0,val_images/val_images,/content/raw/val_images/val_images/18cde9649e90.png,No DR,/content/processed/images_320/18cde9649e90.jpg
+f71333204618,0,test_images/test_images,/content/raw/test_images/test_images/f71333204618.png,No DR,/content/processed/images_320/f71333204618.jpg
+7347bd23ba80,0,train_images/train_images,/content/raw/train_images/train_images/7347bd23ba80.png,No DR,/content/processed/images_320/7347bd23ba80.jpg
+d868acdccb5b,3,train_images/train_images,/content/raw/train_images/train_images/d868acdccb5b.png,Severe,/content/processed/images_320/d868acdccb5b.jpg
+a5c9a8c726b2,4,train_images/train_images,/content/raw/train_images/train_images/a5c9a8c726b2.png,Proliferative DR,/content/processed/images_320/a5c9a8c726b2.jpg
+8846b09384a4,0,train_images/train_images,/content/raw/train_images/train_images/8846b09384a4.png,No DR,/content/processed/images_320/8846b09384a4.jpg
+a646c084928c,0,train_images/train_images,/content/raw/train_images/train_images/a646c084928c.png,No DR,/content/processed/images_320/a646c084928c.jpg
+3e61703b5ab2,0,train_images/train_images,/content/raw/train_images/train_images/3e61703b5ab2.png,No DR,/content/processed/images_320/3e61703b5ab2.jpg
+c24bcf7a1bc4,0,train_images/train_images,/content/raw/train_images/train_images/c24bcf7a1bc4.png,No DR,/content/processed/images_320/c24bcf7a1bc4.jpg
+ec57cc20d776,0,test_images/test_images,/content/raw/test_images/test_images/ec57cc20d776.png,No DR,/content/processed/images_320/ec57cc20d776.jpg
+e7a372a1c3a4,2,test_images/test_images,/content/raw/test_images/test_images/e7a372a1c3a4.png,Moderate,/content/processed/images_320/e7a372a1c3a4.jpg
+5995321563b7,0,train_images/train_images,/content/raw/train_images/train_images/5995321563b7.png,No DR,/content/processed/images_320/5995321563b7.jpg
+36b5b3c9fb32,3,train_images/train_images,/content/raw/train_images/train_images/36b5b3c9fb32.png,Severe,/content/processed/images_320/36b5b3c9fb32.jpg
+c8fc0df22999,1,train_images/train_images,/content/raw/train_images/train_images/c8fc0df22999.png,Mild,/content/processed/images_320/c8fc0df22999.jpg
+7550966ef777,2,train_images/train_images,/content/raw/train_images/train_images/7550966ef777.png,Moderate,/content/processed/images_320/7550966ef777.jpg
+94111ed3d276,1,train_images/train_images,/content/raw/train_images/train_images/94111ed3d276.png,Mild,/content/processed/images_320/94111ed3d276.jpg
+d91635f380b4,0,train_images/train_images,/content/raw/train_images/train_images/d91635f380b4.png,No DR,/content/processed/images_320/d91635f380b4.jpg
+9df31421cdd2,2,train_images/train_images,/content/raw/train_images/train_images/9df31421cdd2.png,Moderate,/content/processed/images_320/9df31421cdd2.jpg
+8b58f9a338e8,0,train_images/train_images,/content/raw/train_images/train_images/8b58f9a338e8.png,No DR,/content/processed/images_320/8b58f9a338e8.jpg
+360832d84ce0,0,train_images/train_images,/content/raw/train_images/train_images/360832d84ce0.png,No DR,/content/processed/images_320/360832d84ce0.jpg
+38fe9f854046,2,train_images/train_images,/content/raw/train_images/train_images/38fe9f854046.png,Moderate,/content/processed/images_320/38fe9f854046.jpg
+612f2df37a1d,4,train_images/train_images,/content/raw/train_images/train_images/612f2df37a1d.png,Proliferative DR,/content/processed/images_320/612f2df37a1d.jpg
+e756495c11cb,2,test_images/test_images,/content/raw/test_images/test_images/e756495c11cb.png,Moderate,/content/processed/images_320/e756495c11cb.jpg
+d035c2bd9104,3,train_images/train_images,/content/raw/train_images/train_images/d035c2bd9104.png,Severe,/content/processed/images_320/d035c2bd9104.jpg
+55eb405ec71e,4,train_images/train_images,/content/raw/train_images/train_images/55eb405ec71e.png,Proliferative DR,/content/processed/images_320/55eb405ec71e.jpg
+3b73a3a4a734,1,train_images/train_images,/content/raw/train_images/train_images/3b73a3a4a734.png,Mild,/content/processed/images_320/3b73a3a4a734.jpg
+78a577c3e0bf,2,train_images/train_images,/content/raw/train_images/train_images/78a577c3e0bf.png,Moderate,/content/processed/images_320/78a577c3e0bf.jpg
+a673193cd5a9,0,train_images/train_images,/content/raw/train_images/train_images/a673193cd5a9.png,No DR,/content/processed/images_320/a673193cd5a9.jpg
+61a62b1dcc36,0,train_images/train_images,/content/raw/train_images/train_images/61a62b1dcc36.png,No DR,/content/processed/images_320/61a62b1dcc36.jpg
+613bacb35c05,1,train_images/train_images,/content/raw/train_images/train_images/613bacb35c05.png,Mild,/content/processed/images_320/613bacb35c05.jpg
+a879c3569552,2,train_images/train_images,/content/raw/train_images/train_images/a879c3569552.png,Moderate,/content/processed/images_320/a879c3569552.jpg
+b086c7cd3868,0,train_images/train_images,/content/raw/train_images/train_images/b086c7cd3868.png,No DR,/content/processed/images_320/b086c7cd3868.jpg
+a0a0cd8af5a6,2,train_images/train_images,/content/raw/train_images/train_images/a0a0cd8af5a6.png,Moderate,/content/processed/images_320/a0a0cd8af5a6.jpg
+c6c2bad91f23,2,train_images/train_images,/content/raw/train_images/train_images/c6c2bad91f23.png,Moderate,/content/processed/images_320/c6c2bad91f23.jpg
+e4a44f9158dc,0,train_images/train_images,/content/raw/train_images/train_images/e4a44f9158dc.png,No DR,/content/processed/images_320/e4a44f9158dc.jpg
+2ef955d6d9ff,0,train_images/train_images,/content/raw/train_images/train_images/2ef955d6d9ff.png,No DR,/content/processed/images_320/2ef955d6d9ff.jpg
+a80dab8eddf4,3,train_images/train_images,/content/raw/train_images/train_images/a80dab8eddf4.png,Severe,/content/processed/images_320/a80dab8eddf4.jpg
+1d29cb2f4296,0,train_images/train_images,/content/raw/train_images/train_images/1d29cb2f4296.png,No DR,/content/processed/images_320/1d29cb2f4296.jpg
+494fc9c745a3,1,train_images/train_images,/content/raw/train_images/train_images/494fc9c745a3.png,Mild,/content/processed/images_320/494fc9c745a3.jpg
+1c13a1483f4a,0,train_images/train_images,/content/raw/train_images/train_images/1c13a1483f4a.png,No DR,/content/processed/images_320/1c13a1483f4a.jpg
+5ce5eeaf757a,0,train_images/train_images,/content/raw/train_images/train_images/5ce5eeaf757a.png,No DR,/content/processed/images_320/5ce5eeaf757a.jpg
+069f43616fab,3,val_images/val_images,/content/raw/val_images/val_images/069f43616fab.png,Severe,/content/processed/images_320/069f43616fab.jpg
+8fbb2ca39911,0,train_images/train_images,/content/raw/train_images/train_images/8fbb2ca39911.png,No DR,/content/processed/images_320/8fbb2ca39911.jpg
+6cfb7b44ef6f,4,train_images/train_images,/content/raw/train_images/train_images/6cfb7b44ef6f.png,Proliferative DR,/content/processed/images_320/6cfb7b44ef6f.jpg
+b82dfa63a75f,0,train_images/train_images,/content/raw/train_images/train_images/b82dfa63a75f.png,No DR,/content/processed/images_320/b82dfa63a75f.jpg
+8a87dd2a784e,0,train_images/train_images,/content/raw/train_images/train_images/8a87dd2a784e.png,No DR,/content/processed/images_320/8a87dd2a784e.jpg
+d9311f7497cb,2,train_images/train_images,/content/raw/train_images/train_images/d9311f7497cb.png,Moderate,/content/processed/images_320/d9311f7497cb.jpg
+73a07e2ea23e,0,train_images/train_images,/content/raw/train_images/train_images/73a07e2ea23e.png,No DR,/content/processed/images_320/73a07e2ea23e.jpg
+64b9206afb3f,0,train_images/train_images,/content/raw/train_images/train_images/64b9206afb3f.png,No DR,/content/processed/images_320/64b9206afb3f.jpg
+97a5ad7548b7,2,train_images/train_images,/content/raw/train_images/train_images/97a5ad7548b7.png,Moderate,/content/processed/images_320/97a5ad7548b7.jpg
+3694e8c8e09a,0,train_images/train_images,/content/raw/train_images/train_images/3694e8c8e09a.png,No DR,/content/processed/images_320/3694e8c8e09a.jpg
+8e4a354e3da2,0,train_images/train_images,/content/raw/train_images/train_images/8e4a354e3da2.png,No DR,/content/processed/images_320/8e4a354e3da2.jpg
+5b72ff04333d,1,train_images/train_images,/content/raw/train_images/train_images/5b72ff04333d.png,Mild,/content/processed/images_320/5b72ff04333d.jpg
+6bcce181be65,0,train_images/train_images,/content/raw/train_images/train_images/6bcce181be65.png,No DR,/content/processed/images_320/6bcce181be65.jpg
+ea9e0fb6fb0b,2,test_images/test_images,/content/raw/test_images/test_images/ea9e0fb6fb0b.png,Moderate,/content/processed/images_320/ea9e0fb6fb0b.jpg
+901a3552fe26,0,train_images/train_images,/content/raw/train_images/train_images/901a3552fe26.png,No DR,/content/processed/images_320/901a3552fe26.jpg
+6dc0281f11e3,0,train_images/train_images,/content/raw/train_images/train_images/6dc0281f11e3.png,No DR,/content/processed/images_320/6dc0281f11e3.jpg
+6cd606dc52e9,4,train_images/train_images,/content/raw/train_images/train_images/6cd606dc52e9.png,Proliferative DR,/content/processed/images_320/6cd606dc52e9.jpg
+0e0003ddd8df,0,val_images/val_images,/content/raw/val_images/val_images/0e0003ddd8df.png,No DR,/content/processed/images_320/0e0003ddd8df.jpg
+42a67337fa8e,2,train_images/train_images,/content/raw/train_images/train_images/42a67337fa8e.png,Moderate,/content/processed/images_320/42a67337fa8e.jpg
+025a169a0bb0,2,val_images/val_images,/content/raw/val_images/val_images/025a169a0bb0.png,Moderate,/content/processed/images_320/025a169a0bb0.jpg
+80f6b30ece8c,0,train_images/train_images,/content/raw/train_images/train_images/80f6b30ece8c.png,No DR,/content/processed/images_320/80f6b30ece8c.jpg
+3246f07e65b4,2,train_images/train_images,/content/raw/train_images/train_images/3246f07e65b4.png,Moderate,/content/processed/images_320/3246f07e65b4.jpg
+7bda86d95c5b,2,train_images/train_images,/content/raw/train_images/train_images/7bda86d95c5b.png,Moderate,/content/processed/images_320/7bda86d95c5b.jpg
+7bf981d9c7fe,1,train_images/train_images,/content/raw/train_images/train_images/7bf981d9c7fe.png,Mild,/content/processed/images_320/7bf981d9c7fe.jpg
+7f60f2a083d3,1,train_images/train_images,/content/raw/train_images/train_images/7f60f2a083d3.png,Mild,/content/processed/images_320/7f60f2a083d3.jpg
+2700754f71e9,2,train_images/train_images,/content/raw/train_images/train_images/2700754f71e9.png,Moderate,/content/processed/images_320/2700754f71e9.jpg
+d5ad3362424c,0,train_images/train_images,/content/raw/train_images/train_images/d5ad3362424c.png,No DR,/content/processed/images_320/d5ad3362424c.jpg
+0abf0c485f66,0,val_images/val_images,/content/raw/val_images/val_images/0abf0c485f66.png,No DR,/content/processed/images_320/0abf0c485f66.jpg
+d81b6ed83bc2,2,train_images/train_images,/content/raw/train_images/train_images/d81b6ed83bc2.png,Moderate,/content/processed/images_320/d81b6ed83bc2.jpg
+d91273efb92a,2,train_images/train_images,/content/raw/train_images/train_images/d91273efb92a.png,Moderate,/content/processed/images_320/d91273efb92a.jpg
+c73c5f6ef664,2,train_images/train_images,/content/raw/train_images/train_images/c73c5f6ef664.png,Moderate,/content/processed/images_320/c73c5f6ef664.jpg
+b77b8a1f09f1,4,train_images/train_images,/content/raw/train_images/train_images/b77b8a1f09f1.png,Proliferative DR,/content/processed/images_320/b77b8a1f09f1.jpg
+74418f620068,2,train_images/train_images,/content/raw/train_images/train_images/74418f620068.png,Moderate,/content/processed/images_320/74418f620068.jpg
+ff52392372d3,2,test_images/test_images,/content/raw/test_images/test_images/ff52392372d3.png,Moderate,/content/processed/images_320/ff52392372d3.jpg
+237aa50edc34,0,train_images/train_images,/content/raw/train_images/train_images/237aa50edc34.png,No DR,/content/processed/images_320/237aa50edc34.jpg
+7c52fe73e748,2,train_images/train_images,/content/raw/train_images/train_images/7c52fe73e748.png,Moderate,/content/processed/images_320/7c52fe73e748.jpg
+a3bd2e034614,0,train_images/train_images,/content/raw/train_images/train_images/a3bd2e034614.png,No DR,/content/processed/images_320/a3bd2e034614.jpg
+beb00fa6e7c9,0,train_images/train_images,/content/raw/train_images/train_images/beb00fa6e7c9.png,No DR,/content/processed/images_320/beb00fa6e7c9.jpg
+232549883508,2,train_images/train_images,/content/raw/train_images/train_images/232549883508.png,Moderate,/content/processed/images_320/232549883508.jpg
+c406325360b1,2,train_images/train_images,/content/raw/train_images/train_images/c406325360b1.png,Moderate,/content/processed/images_320/c406325360b1.jpg
+caec68f11c86,2,train_images/train_images,/content/raw/train_images/train_images/caec68f11c86.png,Moderate,/content/processed/images_320/caec68f11c86.jpg
+98fbe56dcc2c,1,train_images/train_images,/content/raw/train_images/train_images/98fbe56dcc2c.png,Mild,/content/processed/images_320/98fbe56dcc2c.jpg
+b574d229ec4c,2,train_images/train_images,/content/raw/train_images/train_images/b574d229ec4c.png,Moderate,/content/processed/images_320/b574d229ec4c.jpg
+c7e827fc7f41,2,train_images/train_images,/content/raw/train_images/train_images/c7e827fc7f41.png,Moderate,/content/processed/images_320/c7e827fc7f41.jpg
+5b3d41626ec5,0,train_images/train_images,/content/raw/train_images/train_images/5b3d41626ec5.png,No DR,/content/processed/images_320/5b3d41626ec5.jpg
+441affbe99aa,2,train_images/train_images,/content/raw/train_images/train_images/441affbe99aa.png,Moderate,/content/processed/images_320/441affbe99aa.jpg
+18ce0cdc473d,0,val_images/val_images,/content/raw/val_images/val_images/18ce0cdc473d.png,No DR,/content/processed/images_320/18ce0cdc473d.jpg
+4a558a1cd243,2,train_images/train_images,/content/raw/train_images/train_images/4a558a1cd243.png,Moderate,/content/processed/images_320/4a558a1cd243.jpg
+a32b5ce3d48a,4,train_images/train_images,/content/raw/train_images/train_images/a32b5ce3d48a.png,Proliferative DR,/content/processed/images_320/a32b5ce3d48a.jpg
+582f739b8f62,2,train_images/train_images,/content/raw/train_images/train_images/582f739b8f62.png,Moderate,/content/processed/images_320/582f739b8f62.jpg
+c013e869acce,0,train_images/train_images,/content/raw/train_images/train_images/c013e869acce.png,No DR,/content/processed/images_320/c013e869acce.jpg
+cd8da43e3069,0,train_images/train_images,/content/raw/train_images/train_images/cd8da43e3069.png,No DR,/content/processed/images_320/cd8da43e3069.jpg
+f4ea2a2cfbb9,0,test_images/test_images,/content/raw/test_images/test_images/f4ea2a2cfbb9.png,No DR,/content/processed/images_320/f4ea2a2cfbb9.jpg
+ad3fc5076852,1,train_images/train_images,/content/raw/train_images/train_images/ad3fc5076852.png,Mild,/content/processed/images_320/ad3fc5076852.jpg
+fa9f1bc03f21,0,test_images/test_images,/content/raw/test_images/test_images/fa9f1bc03f21.png,No DR,/content/processed/images_320/fa9f1bc03f21.jpg
+609be3ca5ddf,0,train_images/train_images,/content/raw/train_images/train_images/609be3ca5ddf.png,No DR,/content/processed/images_320/609be3ca5ddf.jpg
+5728b8aa98ef,0,train_images/train_images,/content/raw/train_images/train_images/5728b8aa98ef.png,No DR,/content/processed/images_320/5728b8aa98ef.jpg
+521b5377a727,0,train_images/train_images,/content/raw/train_images/train_images/521b5377a727.png,No DR,/content/processed/images_320/521b5377a727.jpg
+baaca2f7e1f0,0,train_images/train_images,/content/raw/train_images/train_images/baaca2f7e1f0.png,No DR,/content/processed/images_320/baaca2f7e1f0.jpg
+8241e43408a8,0,train_images/train_images,/content/raw/train_images/train_images/8241e43408a8.png,No DR,/content/processed/images_320/8241e43408a8.jpg
+b0cc9f8d06e4,2,train_images/train_images,/content/raw/train_images/train_images/b0cc9f8d06e4.png,Moderate,/content/processed/images_320/b0cc9f8d06e4.jpg
+ffc04fed30e6,0,test_images/test_images,/content/raw/test_images/test_images/ffc04fed30e6.png,No DR,/content/processed/images_320/ffc04fed30e6.jpg
+e4e343eaae2a,2,test_images/test_images,/content/raw/test_images/test_images/e4e343eaae2a.png,Moderate,/content/processed/images_320/e4e343eaae2a.jpg
+f2d2a0c92034,4,test_images/test_images,/content/raw/test_images/test_images/f2d2a0c92034.png,Proliferative DR,/content/processed/images_320/f2d2a0c92034.jpg
+57db4781e7ec,0,train_images/train_images,/content/raw/train_images/train_images/57db4781e7ec.png,No DR,/content/processed/images_320/57db4781e7ec.jpg
+00f6c1be5a33,0,val_images/val_images,/content/raw/val_images/val_images/00f6c1be5a33.png,No DR,/content/processed/images_320/00f6c1be5a33.jpg
+de38adaae009,0,train_images/train_images,/content/raw/train_images/train_images/de38adaae009.png,No DR,/content/processed/images_320/de38adaae009.jpg
+996f9bba4ef0,0,train_images/train_images,/content/raw/train_images/train_images/996f9bba4ef0.png,No DR,/content/processed/images_320/996f9bba4ef0.jpg
+5548a7961a3e,1,train_images/train_images,/content/raw/train_images/train_images/5548a7961a3e.png,Mild,/content/processed/images_320/5548a7961a3e.jpg
+b0acd3593310,0,train_images/train_images,/content/raw/train_images/train_images/b0acd3593310.png,No DR,/content/processed/images_320/b0acd3593310.jpg
+7ee6de71c140,0,train_images/train_images,/content/raw/train_images/train_images/7ee6de71c140.png,No DR,/content/processed/images_320/7ee6de71c140.jpg
+fe37f4492920,2,test_images/test_images,/content/raw/test_images/test_images/fe37f4492920.png,Moderate,/content/processed/images_320/fe37f4492920.jpg
+57ce57a8cfb0,2,train_images/train_images,/content/raw/train_images/train_images/57ce57a8cfb0.png,Moderate,/content/processed/images_320/57ce57a8cfb0.jpg
+242fc19be06f,0,train_images/train_images,/content/raw/train_images/train_images/242fc19be06f.png,No DR,/content/processed/images_320/242fc19be06f.jpg
+bf7b4eae7ad0,0,train_images/train_images,/content/raw/train_images/train_images/bf7b4eae7ad0.png,No DR,/content/processed/images_320/bf7b4eae7ad0.jpg
+f819c65b803c,0,test_images/test_images,/content/raw/test_images/test_images/f819c65b803c.png,No DR,/content/processed/images_320/f819c65b803c.jpg
+ebd96d853918,0,test_images/test_images,/content/raw/test_images/test_images/ebd96d853918.png,No DR,/content/processed/images_320/ebd96d853918.jpg

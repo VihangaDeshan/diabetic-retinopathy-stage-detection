@@ -1,0 +1,4 @@
+run,lr_fine,unfreeze_fraction,val_QWK,best_val_loss
+Baseline,0.0,0.3,0.8034,0.6266
+A,0.0001,0.3,0.8571,0.5147
+B,0.0,0.5,0.8405,0.5851

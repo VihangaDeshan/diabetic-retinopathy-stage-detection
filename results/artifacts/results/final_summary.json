@@ -1,0 +1,74 @@
+{
+  "config": {
+    "quick_run": false,
+    "img_size": 224,
+    "batch_size": 32,
+    "epochs_head": 10,
+    "epochs_fine": 20,
+    "lr_head": 0.001,
+    "lr_fine": 1e-05,
+    "unfreeze_fraction": 0.3,
+    "seed": 42,
+    "mixed_precision": true
+  },
+  "final_model": "EfficientNetB0 (tuned A)",
+  "metrics": {
+    "EfficientNetB0": {
+      "accuracy": 0.7618181818181818,
+      "macro_f1": 0.5963902950465492,
+      "weighted_f1": 0.7653177700002891,
+      "qwk": 0.8313091057110672,
+      "params": 4055976,
+      "train_minutes": 28.4,
+      "macro_auc": 0.9120997405644182
+    },
+    "ResNet50": {
+      "accuracy": 0.7418181818181818,
+      "macro_f1": 0.5681472693536331,
+      "weighted_f1": 0.7389932072017317,
+      "qwk": 0.8411446704606995,
+      "params": 23597957,
+      "train_minutes": 25.5,
+      "macro_auc": 0.9097825965123576
+    },
+    "MobileNetV2": {
+      "accuracy": 0.7018181818181818,
+      "macro_f1": 0.5292296252253845,
+      "weighted_f1": 0.7000553943690251,
+      "qwk": 0.8074407473145344,
+      "params": 2264389,
+      "train_minutes": 35.3,
+      "macro_auc": 0.9097983898297848
+    },
+    "EfficientNetB0 (tuned A)": {
+      "accuracy": 0.78,
+      "macro_f1": 0.6393898135063726,
+      "weighted_f1": 0.7854036842761027,
+      "qwk": 0.8699689520608426,
+      "params": 4055976,
+      "train_minutes": 35.4,
+      "macro_auc": 0.9312208949508264
+    },
+    "EfficientNetB0 (tuned B)": {
+      "accuracy": 0.7672727272727272,
+      "macro_f1": 0.6100942417640655,
+      "weighted_f1": 0.7695647158994944,
+      "qwk": 0.8461701358297723,
+      "params": 4055976,
+      "train_minutes": 34.6,
+      "macro_auc": 0.919024349867731
+    }
+  },
+  "class_weights": {
+    "0": 0.4057,
+    "1": 1.986,
+    "2": 0.733,
+    "3": 3.7956,
+    "4": 2.4754
+  },
+  "split_sizes": {
+    "train": 2562,
+    "val": 550,
+    "test": 550
+  }
+}
